@@ -121,7 +121,6 @@ Rules:
     response = client.messages.create(
         model="claude-haiku-4-5-20251001",
         max_tokens=1200,
-        temperature=0.2,
         system=(
             "You are a careful medical research and "
             "news briefing editor. Return only valid JSON."
