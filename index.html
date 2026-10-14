@@ -1,1 +1,159 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#101b30"><title>The Weekly Brief — Intelligence Dashboard</title><link rel="stylesheet" href="styles.css"></head><body><div class="shell"><aside class="sidebar"><div class="brand"><span class="brandmark">✳</span><span>THE WEEKLY<br><b>BRIEF</b></span></div><div class="aside-label">EXPLORE</div><nav id="nav" aria-label="Categories"></nav><div class="aside-bottom"><div class="side-note"><span class="dot"></span> Demo edition<br><small>Live news not yet connected</small></div><p>Made for curious minds.</p></div></aside><main class="main"><header class="top"><div class="crumb">YOUR INTELLIGENCE CENTER <span>/</span> WEEKLY EDITION</div><div class="top-right"><span class="date" id="today"></span><button id="theme" class="iconbtn" aria-label="Toggle theme">◐</button></div></header><section class="hero"><div><div class="eyebrow">YOUR WORLD, EXPLAINED</div><h1>Stay curious.<br><em>Stay ahead.</em></h1><p>The stories worth your attention, distilled into clear insights. From the hospital floor to the frontiers of AI.</p><div class="hero-actions"><button id="readTop" class="primary">Explore this edition <span>↗</span></button><span class="edition">● DEMONSTRATION EDITION</span></div></div><div class="hero-art" aria-hidden="true"><div class="orb orb1"></div><div class="orb orb2"></div><div class="orb orb3"></div><div class="grid-art"></div><span class="hero-star">✳</span></div></section><section class="stats"><div><span class="stat-num" id="articleCount">0</span><span class="stat-label">STORIES CURATED</span></div><div><span class="stat-num">5</span><span class="stat-label">AREAS OF INTEREST</span></div><div><span class="stat-num" id="bookmarkCount">0</span><span class="stat-label">SAVED FOR LATER</span></div><div><span class="stat-num">WEEKLY</span><span class="stat-label">PLANNED CADENCE</span></div></section><section id="stories" class="content"><div class="section-head"><div><div class="eyebrow dark">THE READING ROOM</div><h2 id="sectionTitle">Your weekly digest</h2><p id="sectionSub">A thoughtful selection across the subjects you care about.</p></div><div class="controls"><label class="search"><span>⌕</span><input id="search" type="search" placeholder="Search stories..." aria-label="Search stories"></label><select id="sort" aria-label="Sort stories"><option value="default">Editor's order</option><option value="title">Title A–Z</option></select></div></div><div class="filters" id="filters"></div><div id="articles" class="articles"></div><div id="empty" class="empty" hidden>No stories match your search. Try another topic.</div></section><footer><span>THE WEEKLY BRIEF <span class="footdot">✳</span></span><span>Demo content is illustrative, not current news or medical guidance.</span></footer></main></div><dialog id="reader"><div class="dialog-wrap"><button class="close" id="close" aria-label="Close article">✕</button><div id="readerBody"></div></div></dialog><script src="app.js"></script></body></html>
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101b30">
+  <title>The Weekly Brief — Intelligence Dashboard</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+<div class="shell">
+
+  <aside class="sidebar">
+    <div class="brand">
+      <span class="brandmark">✳</span>
+      <span>THE WEEKLY<br><b>BRIEF</b></span>
+    </div>
+
+    <div class="aside-label">EXPLORE</div>
+    <nav id="nav" aria-label="Categories"></nav>
+
+    <div class="aside-bottom">
+      <div class="side-note">
+        <span class="dot"></span>
+        <span id="editionStatus">Live Edition</span>
+        <br>
+        <small id="editionDate">Loading latest edition...</small>
+      </div>
+      <p>Made for curious minds.</p>
+    </div>
+  </aside>
+
+  <main class="main">
+    <header class="top">
+      <div class="crumb">
+        YOUR INTELLIGENCE CENTER
+        <span>/</span>
+        WEEKLY EDITION
+      </div>
+
+      <div class="top-right">
+        <span class="date" id="today"></span>
+        <button id="theme" class="iconbtn"
+                aria-label="Toggle theme">◐</button>
+      </div>
+    </header>
+
+    <section class="hero">
+      <div>
+        <div class="eyebrow">YOUR WORLD, EXPLAINED</div>
+
+        <h1>Stay curious.<br><em>Stay ahead.</em></h1>
+
+        <p>
+          The stories worth your attention, distilled into clear insights.
+          From the hospital floor to the frontiers of AI.
+        </p>
+
+        <div class="hero-actions">
+          <button id="readTop" class="primary">
+            Explore this edition <span>↗</span>
+          </button>
+          <span class="edition">● LIVE WEEKLY EDITION</span>
+        </div>
+      </div>
+
+      <div class="hero-art" aria-hidden="true">
+        <div class="orb orb1"></div>
+        <div class="orb orb2"></div>
+        <div class="orb orb3"></div>
+        <div class="grid-art"></div>
+        <span class="hero-star">✳</span>
+      </div>
+    </section>
+
+    <section class="stats">
+      <div>
+        <span class="stat-num" id="articleCount">0</span>
+        <span class="stat-label">STORIES CURATED</span>
+      </div>
+
+      <div>
+        <span class="stat-num">5</span>
+        <span class="stat-label">AREAS OF INTEREST</span>
+      </div>
+
+      <div>
+        <span class="stat-num" id="bookmarkCount">0</span>
+        <span class="stat-label">SAVED FOR LATER</span>
+      </div>
+
+      <div>
+        <span class="stat-num">WEEKLY</span>
+        <span class="stat-label">AUTOMATIC UPDATES</span>
+      </div>
+    </section>
+
+    <section id="stories" class="content">
+      <div class="section-head">
+        <div>
+          <div class="eyebrow dark">THE READING ROOM</div>
+          <h2 id="sectionTitle">Your weekly digest</h2>
+          <p id="sectionSub">
+            A thoughtful selection across the subjects you care about.
+          </p>
+        </div>
+
+        <div class="controls">
+          <label class="search">
+            <span>⌕</span>
+            <input
+              id="search"
+              type="search"
+              placeholder="Search stories..."
+              aria-label="Search stories">
+          </label>
+
+          <select id="sort" aria-label="Sort stories">
+            <option value="default">Editor's order</option>
+            <option value="title">Title A–Z</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="filters" id="filters"></div>
+      <div id="articles" class="articles"></div>
+
+      <div id="empty" class="empty" hidden>
+        No stories match your search. Try another topic.
+      </div>
+    </section>
+
+    <footer>
+      <span>
+        THE WEEKLY BRIEF
+        <span class="footdot">✳</span>
+      </span>
+
+      <span id="editionFooter">
+        AI-assisted summaries. Verify clinical decisions against
+        original research and guidelines.
+      </span>
+    </footer>
+  </main>
+</div>
+
+<dialog id="reader">
+  <div class="dialog-wrap">
+    <button class="close" id="close"
+            aria-label="Close article">✕</button>
+    <div id="readerBody"></div>
+  </div>
+</dialog>
+
+<script src="app.js"></script>
+</body>
+</html>
