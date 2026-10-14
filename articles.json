@@ -1,16 +1,420 @@
 {
-  "edition": "Demonstration edition — not live news",
-  "updated": "2026-10-13",
+  "edition": "Weekly Intelligence Brief",
+  "updated": "2026-10-14",
   "articles": [
-    {"id":"hospital-1","category":"Hospital Medicine","tag":"CLINICAL PRACTICE","readTime":4,"title":"How shorter antibiotic courses are changing inpatient conversations","dek":"An illustrative overview of the evidence questions hospitalists should ask before shortening treatment.","summary":["For selected infections, researchers have investigated whether a shorter antibiotic course can work as well as a longer one. The right duration depends on the infection, clinical stability, source control and patient-specific risks.","For hospitalists, the practical question is not simply how many days to prescribe. It is whether the diagnosis is secure, whether the patient is improving, and whether a specific guideline or trial actually applies to that patient.","This is a teaching example, not a report of a new study. Before changing treatment, check the current guideline and original research for the specific syndrome."],"why":"Potential implications for stewardship, adverse effects and discharge planning.","evidence":"Educational illustration; no specific study cited.","source":"","date":"Demo","featured":true},
-    {"id":"hospital-2","category":"Hospital Medicine","tag":"INPATIENT CARE","readTime":3,"title":"Rethinking discharge readiness beyond vital signs","dek":"Why functional status, support systems and follow-up matter alongside medical stability.","summary":["Discharge readiness is broader than normal vital signs. Mobility, cognition, medication access and caregiver capacity can affect whether a patient can safely manage after leaving the hospital.","A structured handoff can document unresolved risks and who is responsible for follow-up. This is particularly important when therapy assessments and family concerns differ from the medical team's assessment."],"why":"A useful framework for safer transitions of care.","evidence":"Educational illustration; not a new guideline.","source":"","date":"Demo"},
-    {"id":"research-1","category":"Internal Medicine Research","tag":"RESEARCH LITERACY","readTime":5,"title":"Reading a clinical trial: relative versus absolute risk","dek":"A simple way to judge whether a statistically significant result will matter to patients.","summary":["A treatment can sound dramatic when a study reports a relative risk reduction. But the absolute difference between groups often better communicates how much a typical patient may benefit.","For example, reducing an outcome from 2% to 1% is a 50% relative reduction but only a 1 percentage point absolute reduction. Study populations, harms and follow-up time still matter."],"why":"Helps interpret new RCTs before translating them into clinical practice.","evidence":"Educational example with hypothetical numbers.","source":"","date":"Demo","featured":true},
-    {"id":"research-2","category":"Internal Medicine Research","tag":"GUIDELINES","readTime":4,"title":"What makes a new guideline practice-changing?","dek":"Look for patient-important outcomes, evidence certainty and implementation barriers.","summary":["A new recommendation is not automatically a reason to change practice. First identify what changed from the previous version, the strength of evidence and whether the target population matches your patients.","Also consider whether a recommendation improves mortality, hospitalization or quality of life versus changing a surrogate marker alone."],"why":"Provides a repeatable approach to assessing guideline updates.","evidence":"General educational framework.","source":"","date":"Demo"},
-    {"id":"ai-1","category":"AI & Technology","tag":"ARTIFICIAL INTELLIGENCE","readTime":4,"title":"AI agents versus chatbots: what's the real difference?","dek":"From answering questions to coordinating tools and completing multi-step work.","summary":["A chatbot primarily responds to prompts. An AI agent may also use tools, keep track of intermediate steps and act toward a defined goal, subject to permissions and oversight.","For a medical practice, potential applications include organizing administrative tasks or preparing summaries. Patient information requires careful attention to privacy, accuracy and approved systems."],"why":"Understanding agents helps separate useful automation from marketing hype.","evidence":"Technology explainer; not a current product announcement.","source":"","date":"Demo","featured":true},
-    {"id":"ai-2","category":"AI & Technology","tag":"ROBOTICS","readTime":3,"title":"Why embodied AI is harder than text generation","dek":"Robots must understand uncertain physical environments, not just language.","summary":["A language model can generate an instruction instantly, but a robot must perceive the world, plan movements and respond to unexpected changes. Errors have real physical consequences.","Progress depends on sensing, control, training data and robust safety systems working together."],"why":"A useful lens for evaluating claims about humanoid robots.","evidence":"Technology explainer.","source":"","date":"Demo"},
-    {"id":"gaming-1","category":"Gaming","tag":"GAME DEVELOPMENT","readTime":4,"title":"Building believable 3D towns with Godot and Blender","dek":"A practical pipeline for environments, characters and social simulation.","summary":["Blender is used to create and animate 3D assets. Godot provides the game runtime, where characters move, interact and respond to game rules.","For a social-life simulator, start with one small playable neighborhood, a few characters and a repeatable daily routine before expanding the world."],"why":"A practical foundation for an expandable social simulation game.","evidence":"Development explainer; not breaking gaming news.","source":"","date":"Demo","featured":true},
-    {"id":"gaming-2","category":"Gaming","tag":"AI NPCS","readTime":3,"title":"Can AI make non-player characters feel alive?","dek":"Memory, goals and constraints can make interactions feel more consistent.","summary":["Traditional NPCs often follow scripted dialogue trees. AI-assisted systems can offer more flexible dialogue, but still need boundaries, memory design and predictable game mechanics.","The strongest approach may combine authored story structure with constrained dynamic conversations."],"why":"Relevant to designing romance, careers and mysteries in simulation games.","evidence":"Game design concept overview.","source":"","date":"Demo"},
-    {"id":"politics-1","category":"Politics & World","tag":"POLICY EXPLAINER","readTime":4,"title":"How a proposed policy becomes law in the United States","dek":"A neutral guide to bills, committees, votes and executive action.","summary":["A proposal is not the same as an enacted law. Bills typically move through committee consideration and legislative votes, with differences between chambers resolved before a bill is presented to the president.","Executive actions, agency rules and court decisions follow different legal processes. When reading a headline, identifying the stage of the process can prevent misunderstandings."],"why":"Helps distinguish announcements from actual legal changes.","evidence":"Civics explainer; not a report on a pending bill.","source":"","date":"Demo","featured":true},
-    {"id":"politics-2","category":"Politics & World","tag":"GLOBAL AFFAIRS","readTime":3,"title":"A simple framework for reading geopolitical news","dek":"Separate verified events, competing claims and possible consequences.","summary":["Geopolitical stories often mix confirmed events, statements by interested parties and predictions. A reliable briefing should label each separately and seek independent confirmation.","To understand why an event matters, examine its diplomatic, economic and humanitarian implications while acknowledging uncertainty and relevant competing perspectives."],"why":"Makes complex world affairs easier to follow without oversimplifying.","evidence":"Media literacy explainer.","source":"","date":"Demo"}
+    {
+      "id": "823d2ae86fb593fc",
+      "category": "Hospital Medicine",
+      "tag": "HEART FAILURE TREATMENT",
+      "readTime": 3,
+      "title": "Interim Real-World Results Show At-Home Subcutaneous Furosemide Can Effectively Treat Worsening Heart Failure in Patients at Imminent Risk for Hospital Admission - PR Newswire",
+      "dek": "Early results suggest patients can receive furosemide injections at home to manage acute heart failure and avoid hospitalization.",
+      "summary": [
+        "Interim real-world findings indicate that subcutaneous furosemide—a diuretic medication delivered by injection under the skin—may help treat worsening heart failure symptoms in patients at high risk of hospital admission. The treatment was administered in an at-home setting rather than requiring emergency department or inpatient care.",
+        "This approach addresses a significant clinical need, as acute heart failure episodes frequently lead to hospitalizations. At-home subcutaneous administration could potentially reduce emergency department visits and hospital admissions while improving patient convenience and outcomes.",
+        "The results are described as interim findings from real-world clinical use. Full details about patient numbers, comparison groups, specific outcomes measured, and the complete study design are not available from the source material provided."
+      ],
+      "why": "Heart failure hospitalizations represent a substantial burden on healthcare systems and patients. If confirmed effective, at-home subcutaneous furosemide could offer a less disruptive alternative to hospital-based care for managing acute episodes, potentially improving access to treatment and reducing healthcare costs.",
+      "evidence": "Evidence quality cannot be fully assessed from available information. The source identifies these as 'interim real-world results,' suggesting ongoing data collection. Study design, sample size, control groups, primary endpoints, and safety data are not described in the source material. Further peer-reviewed publication would be needed to evaluate methodology and clinical significance.",
+      "source": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOQUxDX3VfNTZYX3ZfLXFjUW1mdE9zUy1XYXBEVkR0dXIxUm5aQTE1aTB4Z25MNEpCcnE4NGF4RE93NWwyRUI3SnowbjBFWk1tanJzUkNLTG5LaHF6T0tXVWh4MzVCM0hYZEZHcUdmTENOVmw4aE84bFJjblNzU3VGLUNvOFFSZl9USWYtdzFWbTF4SDliQVVIeU0wN1o2TkNmY2d5V1U5XzZqWlZMNTBCRmQ4NVVLMTJ3aFQzeTR2UzNLZ1JKSllhdHF2dFZBX1BKenRrTVBLVEJ5MXFGQjlLazRwSWxrSXZqQjFzQk1yZEFjdW1nS3F1MzFkUnFmQjVzbXJWWmtLU3VWSFYwNEtKWnZlbWYxZHBadFZDdWhoTC1KaDhndHRUcVdRRXZIWXdSUHl5RU1OeWJRMUtxYlE?oc=5",
+      "date": "Mon, 12 Oct 2026 18:30:00",
+      "featured": true
+    },
+    {
+      "id": "471af0ca233c4b09",
+      "category": "Hospital Medicine",
+      "tag": "SEPSIS SCREENING",
+      "readTime": 3,
+      "title": "New Emergency Department Screening Helps UK HealthCare Identify Sepsis Sooner | Newswise - Newswise",
+      "dek": "UK HealthCare has implemented a new screening method in its emergency department to detect sepsis earlier in patients.",
+      "summary": [
+        "UK HealthCare has introduced a new screening approach in its emergency department designed to identify sepsis cases more quickly. Sepsis is a life-threatening condition that occurs when the body's response to infection causes tissue damage.",
+        "Earlier identification of sepsis is clinically important because rapid treatment significantly improves patient outcomes. The screening system aims to reduce the time between patient arrival and sepsis diagnosis, enabling faster intervention."
+      ],
+      "why": "Sepsis is a medical emergency where minutes matter—early recognition and treatment directly impact survival rates and reduce complications. Faster screening in busy emergency departments could improve outcomes for vulnerable patients.",
+      "evidence": "Details about the specific screening method, implementation results, patient data, and comparative effectiveness are not available in the provided source material. The full study design, findings, and any validation results cannot be verified from this briefing alone.",
+      "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYnN2bW1Nd3ZnYkNTX3ZpWEJMTDNjcFV0QXcwMjZmYzFGOTg4TTN5ZFY0NDNqbm5FaThOWlUzeXpXRXRlRmhMbFg4VVFrcTRFTDJBLVEwenJucmNvRjBINkx5aVhybUZrYmp5Mm52bXBmRGc4b1ZmSmRxZnluSlQ4NURrY0RNaTVmdW42ZzNJUGxHOWIwckVMeVJuRGRlQdIBngFBVV95cUxQYnN2bW1Nd3ZnYkNTX3ZpWEJMTDNjcFV0QXcwMjZmYzFGOTg4TTN5ZFY0NDNqbm5FaThOWlUzeXpXRXRlRmhMbFg4VVFrcTRFTDJBLVEwenJucmNvRjBINkx5aVhybUZrYmp5Mm52bXBmRGc4b1ZmSmRxZnluSlQ4NURrY0RNaTVmdW42ZzNJUGxHOWIwckVMeVJuRGRlQQ?oc=5",
+      "date": "Wed, 07 Oct 2026 14:50:00",
+      "featured": false
+    },
+    {
+      "id": "d30cbc42eb1e9aee",
+      "category": "Hospital Medicine",
+      "tag": "CLINICAL AI / HOSPITAL MEDICINE",
+      "readTime": 3,
+      "title": "Healthleap Raises $38M for Clinical AI Screening Platform Targeting Overlooked Inpatient Conditions - HIT Consultant",
+      "dek": "Healthleap secures $38 million in funding to expand its AI platform designed to identify missed diagnoses in hospitalized patients.",
+      "summary": [
+        "Healthleap, a clinical artificial intelligence company, has raised $38 million to develop and scale its screening platform. The platform is designed to help identify inpatient conditions that are frequently overlooked or missed during standard clinical care.",
+        "The funding reflects growing investment in AI tools aimed at improving hospital operations and patient safety. According to the report, the platform targets a specific gap in clinical workflows—conditions that may go undiagnosed despite patient presentation in healthcare settings.",
+        "The company operates in the hospital medicine space, where AI screening tools are increasingly being evaluated as potential aids to clinical decision-making and diagnostic processes."
+      ],
+      "why": "Missed diagnoses in hospital settings can lead to patient harm, prolonged illness, and increased healthcare costs. AI-assisted screening tools may help clinicians catch overlooked conditions, though their real-world clinical impact remains an area of ongoing research and validation.",
+      "evidence": {
+        "quality": "Low to moderate",
+        "limitations": "This is a funding announcement. The source material does not provide clinical validation data, peer-reviewed study results, or detailed information about the platform's diagnostic accuracy. Specific conditions targeted and clinical evidence of effectiveness are not included in the available report."
+      },
+      "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ3d1amZfNTZqeFVQMGhJcHZxclFTQ09wT2dTZmhFWlU1c3hjblhXZ2ZVN2UwSTFGZmlMRHhzdHlQT2xKOTZKRHJiZ2haSk5valEtd25FOXlNS0xmdFpsSE1zempZc0o0ay1GRjhOSTRoTXFkcXVXOFNXN0JsODl2eGsxZHhTVFlENmNtdFFpTVRNX29xOW9DZHZTaW9RYWxyMzhyaDRsQ2t4TUpzQm5CTjh6OXlTSDl3WHFTWQ?oc=5",
+      "date": "Thu, 08 Oct 2026 06:39:34",
+      "featured": false
+    },
+    {
+      "id": "b72ff6c204b492b7",
+      "category": "Internal Medicine Research",
+      "tag": "CARDIOLOGY",
+      "readTime": 3,
+      "title": "Tricuspid-Valve Intervention in Heart Failure - NEJM",
+      "dek": "A New England Journal of Medicine study examines whether surgical or catheter-based repair of the tricuspid valve improves outcomes in heart failure patients.",
+      "summary": [
+        "Researchers have published findings in NEJM regarding tricuspid valve interventions for patients with heart failure. The tricuspid valve, which controls blood flow on the right side of the heart, can become leaky (regurgitant) and worsen heart failure symptoms.",
+        "This research likely compares different approaches to repairing a leaky tricuspid valve—either through traditional open-heart surgery or newer catheter-based (minimally invasive) techniques. The study aims to inform clinical decisions about which patients benefit most from intervention and which technique may be preferred.",
+        "The findings contribute to understanding how managing secondary tricuspid valve disease affects heart failure progression and patient quality of life, areas where treatment strategies continue to evolve."
+      ],
+      "why": "Tricuspid regurgitation is common in advanced heart failure and can worsen outcomes. Clear evidence on whether and how to intervene helps clinicians make better treatment decisions for this patient population and may reduce hospitalizations and mortality.",
+      "evidence": "The source indicates this is a peer-reviewed NEJM study, which represents high-quality medical evidence. However, full details about study design, patient population, sample size, and specific findings cannot be verified from the headline and feed description alone. Readers should consult the full article for methodology, results, and limitations.",
+      "source": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00bGFiV3owNlVvVXQtc2lna0VBUzB0c1FMZDNnZGNPTjNGRmZDZ0ROZmctU0FOUl80R2ZhYjNjRDdDaWppTVQ0NnJSZXFCV0FUNnA0aUZPTU5VbDNiZ2xXVg?oc=5",
+      "date": "Wed, 07 Oct 2026 22:00:51",
+      "featured": true
+    },
+    {
+      "id": "4a104bf3b5fdb2d3",
+      "category": "Internal Medicine Research",
+      "tag": "OPTOGENETIC THERAPY",
+      "readTime": 3,
+      "title": "Optogenetic Therapy for Restoring Aspects of Visual Function - NEJM",
+      "dek": "Researchers in the New England Journal of Medicine report on optogenetic therapy, a technique using light-sensitive proteins to restore some visual function in people with vision loss.",
+      "summary": [
+        "Optogenetics is an experimental approach that uses light-sensitive proteins to stimulate remaining nerve cells in the eye. The technique has been studied as a potential treatment for certain types of vision loss, particularly in conditions where photoreceptor cells have died but other retinal structures remain intact.",
+        "The New England Journal of Medicine publication discusses clinical applications of this technology. Specific details about patient outcomes, study design, and results cannot be verified from the source material provided.",
+        "This research represents progress in regenerative and restorative ophthalmology, an active area of investigation for treating previously untreatable forms of blindness."
+      ],
+      "why": "Millions of people worldwide experience vision loss from retinal diseases with no current cure. Optogenetic approaches represent a novel strategy to bypass damaged photoreceptors and directly stimulate remaining retinal cells, potentially restoring functional vision to people with advanced vision loss.",
+      "evidence": "This is a peer-reviewed publication in a leading medical journal (NEJM), indicating editorial and scientific review. However, the specific study design, sample size, efficacy measures, and limitations cannot be determined from the source material alone. Full assessment of evidence quality requires access to the complete article.",
+      "source": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yb3haWEdUWXk5bXFGVFpaZkpjb09lZnJtdmpLNUNHRlNJSGUtUW5jUGpIQmdTd1RFUGZwWGJUN2JlUzByR1ZyUFdqNFB3U3ZJZ0ZUZDB6RmdwNFJnVnJaNg?oc=5",
+      "date": "Wed, 07 Oct 2026 21:13:50",
+      "featured": false
+    },
+    {
+      "id": "f68eabd74585fa1b",
+      "category": "Internal Medicine Research",
+      "tag": "MEDICAL RESEARCH",
+      "readTime": 3,
+      "title": "Current Issue | New England Journal of Medicine - NEJM",
+      "dek": "The New England Journal of Medicine has released its current issue with new medical research and clinical updates.",
+      "summary": [
+        "The New England Journal of Medicine (NEJM), one of the world's leading medical research publications, published its November 6, 2018 issue. The specific articles and findings from this issue cannot be detailed without access to the full publication content.",
+        "NEJM publishes peer-reviewed original research, reviews, and clinical case reports across internal medicine and related specialties. Each issue typically covers multiple studies on topics ranging from pharmacology and cardiology to infectious disease and oncology.",
+        "Without access to the article abstracts or full text, specific findings, study designs, and conclusions from this particular issue cannot be verified or summarized accurately."
+      ],
+      "why": "NEJM is a high-impact medical journal where published research significantly influences clinical practice and medical education. New findings announced in this journal often shape treatment guidelines and medical decision-making worldwide.",
+      "evidence": "Evidence quality cannot be assessed without reviewing the individual articles in this issue. NEJM typically publishes peer-reviewed studies, but the specific methodology, sample sizes, and limitations of each article would need to be examined separately.",
+      "source": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Mc1pDNTVicUM0UFFUeEpJWGhVdVV3NVNBc2lnVWpEX3Z0b1dzNG9DWlB5YlZ4WlljU3dPajJzOV9LTEFDZjJnZUpKeEZKZw?oc=5",
+      "date": "Tue, 06 Nov 2018 21:28:36",
+      "featured": false
+    },
+    {
+      "id": "1e12a7eacbe5fa20",
+      "category": "Internal Medicine Research",
+      "tag": "CLINICAL CASE REPORT",
+      "readTime": 3,
+      "title": "Case 28-2026: A 19-Year-Old Woman with Fever, Cervical Lymphadenopathy, and Leukopenia - NEJM",
+      "dek": "A medical case report in NEJM documents the clinical presentation of a young woman presenting with fever, enlarged neck lymph nodes, and low white blood cell count.",
+      "summary": [
+        "The New England Journal of Medicine has published Case 28-2026, a clinical case study of a 19-year-old woman who presented with fever, cervical lymphadenopathy (swollen lymph nodes in the neck), and leukopenia (abnormally low white blood cell count). Case reports like this one detail the diagnostic reasoning and clinical course of individual patients.",
+        "NEJM case reports typically present unusual or instructive clinical presentations to help physicians recognize and manage similar conditions. The specific diagnosis, clinical findings, and clinical course of this case cannot be confirmed from the headline and metadata alone."
+      ],
+      "why": "Medical case reports serve an important educational function by documenting unusual presentations, diagnostic challenges, or important clinical lessons. They help practicing physicians recognize similar patterns in their own patients and understand disease management approaches.",
+      "evidence": "This is a case report, which represents the lowest level of clinical evidence hierarchy. A case report documents one patient's experience and cannot establish causation, test treatments rigorously, or generate generalizable conclusions. The full article would need to be reviewed to assess specific clinical details and conclusions.",
+      "source": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlUG1oV200NmkzdXFJcVY5SEJQVXdoVW9iNnZldWdSOFZqRC1sejBGOGd5MWdnWm84TlpYWUozQXpLYzVDSlN5blFUUVhxWlM1Q0xhNDlYaE5ETUhrbnJ3TQ?oc=5",
+      "date": "Wed, 07 Oct 2026 21:28:49",
+      "featured": false
+    },
+    {
+      "id": "4d5bd682aa1b37b1",
+      "category": "Internal Medicine Research",
+      "tag": "GYNECOLOGIC ONCOLOGY",
+      "readTime": 3,
+      "title": "Outcomes After Robot-Assisted vs Open Radical Hysterectomy - JAMA",
+      "dek": "A JAMA study compares surgical outcomes between robot-assisted and open approaches for radical hysterectomy in cancer treatment.",
+      "summary": [
+        "Researchers published findings in JAMA comparing robot-assisted radical hysterectomy with the traditional open surgical approach. This comparison is relevant because hysterectomy is a major gynecological cancer treatment, and surgeons increasingly use robotic systems.",
+        "The study examined how these two surgical methods differ in terms of patient outcomes. Specific findings regarding complications, recovery time, cancer recurrence rates, or other clinical endpoints cannot be verified from the available source material.",
+        "This research contributes to the ongoing clinical debate about whether newer minimally invasive robotic techniques offer meaningful advantages over established open surgical methods for this procedure."
+      ],
+      "why": "Radical hysterectomy is a primary treatment for gynecological cancers. Understanding which surgical approach produces better outcomes helps clinicians and patients make informed treatment decisions and guides resource allocation in surgical programs.",
+      "evidence": "This is a peer-reviewed study published in JAMA, a high-impact medical journal. However, the specific study design, patient population, sample size, statistical findings, and any limitations cannot be verified from the source material provided. Full article review would be needed to assess evidence quality.",
+      "source": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTS2gxT09aVjVYX0xvdFVkaFBOLTVVQWVyZG1ndGJmcWJxRmh4dkhINzNuNDdXdVVkc0VZOE9TWHBjU0JHSEZMdzAzbmtVQW9RU2RfT1ZjX0pTS1JuMmw5ZTBwVFFickdqd2kyRjB0YS0wQQ?oc=5",
+      "date": "Wed, 07 Oct 2026 17:52:59",
+      "featured": false
+    },
+    {
+      "id": "913489678e07f06e",
+      "category": "AI & Technology",
+      "tag": "AI COPYRIGHT DISPUTE",
+      "readTime": 3,
+      "title": "OpenAI, Anthropic Face Copyright Backlash as Australian Music Industry Warns of AI Exploitation - Law Commentary",
+      "dek": "Australian music industry warns that AI companies like OpenAI and Anthropic are exploiting copyrighted music without permission or compensation.",
+      "summary": [
+        "OpenAI and Anthropic face copyright complaints as the Australian music industry raises concerns about AI systems being trained on copyrighted music. The industry argues this constitutes exploitation of artists' work without proper licensing or compensation.",
+        "The dispute reflects growing tensions globally between AI developers and creative industries over how generative AI systems are trained. Similar concerns have been raised by music organizations in other countries regarding unauthorized use of copyrighted material."
+      ],
+      "why": "This issue affects copyright law, artist compensation, AI regulation, and the broader question of how generative AI should operate within existing intellectual property frameworks.",
+      "evidence": {
+        "quality": "Limited - published as law commentary based on industry warnings",
+        "limitations": "The source link and full article text are not accessible for review. Claims reflect the Australian music industry's position but specific details about alleged violations, legal arguments, or company responses cannot be verified from this briefing alone."
+      },
+      "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUXBZQnNBZlpMVlZDSGo0clowLWFKMVlvWGV6Wk5oakwtYlh6WXJjUjVjVjlZZnVfQU5OZGtBZjNNYnc1amVSQ0ZzcXN4QjRMQWF2bjRKb2YyZnFSOTdNRG12WE90TFJzX0tmdXk5SGdQa3p0SzdNeXd0M3NlS0s5VURiZlhtcW1NcmVkelpkY1E?oc=5",
+      "date": "Thu, 08 Oct 2026 23:44:55",
+      "featured": true
+    },
+    {
+      "id": "4d3a2ef1948483ae",
+      "category": "AI & Technology",
+      "tag": "AI COMPETITION",
+      "readTime": 3,
+      "title": "Meta says its new AI models on par with OpenAI, Anthropic - Tech Xplore",
+      "dek": "Meta claims its latest artificial intelligence models now match the capabilities of leading competitors OpenAI and Anthropic.",
+      "summary": [
+        "Meta has announced new AI models that the company states are competitive with industry leaders OpenAI and Anthropic. The announcement reflects Meta's ongoing investment in artificial intelligence development as competition intensifies in the AI sector.",
+        "This claim by Meta comes as multiple tech companies race to develop advanced AI systems. The comparative performance assessment was made by Meta directly, though independent verification of these claims was not included in the available source material.",
+        "The development is part of broader industry competition to create and deploy increasingly capable AI models, with multiple companies making similar advancement announcements."
+      ],
+      "why": "This matters because AI model capability claims influence investor confidence, talent recruitment, and enterprise adoption decisions. Meta's claim to competitive parity with OpenAI and Anthropic signals significant investment returns and positions the company in ongoing AI market competition.",
+      "evidence": {
+        "quality": "Low to moderate",
+        "details": "The source is a news report of Meta's claim rather than independent technical analysis or published research. No specific benchmark results, model specifications, or third-party testing data are referenced in the available source material. Readers cannot verify Meta's comparative capability claims from this briefing alone.",
+        "limitations": "Full article content not reviewed. No access to technical documentation or independent evaluation. Claims are based on Meta's own assessment."
+      },
+      "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlWFpXejZzMXc2X2ptcUt3UlRrSE14M2dYR0JTMmRGakZ3MjV5RXV6Q1gxSk1tdkZfTUFQSFpxZFk1c0RjQXRjMUZiTWV4MzZzdGhTYjJxNzVHdzVZdXE1ZXg5dWdDbkFnSHlSLUtlRkptdEpwMVFweA?oc=5",
+      "date": "Mon, 12 Oct 2026 20:10:01",
+      "featured": false
+    },
+    {
+      "id": "3a160c370dcd1917",
+      "category": "AI & Technology",
+      "tag": "AI COMPETITION",
+      "readTime": 3,
+      "title": "Meta launches new AI models to compete with OpenAI and Anthropic - Anadolu Ajansı",
+      "dek": "Meta has announced new AI models designed to compete with OpenAI's offerings and Anthropic's Claude in the generative AI market.",
+      "summary": [
+        "Meta has launched new artificial intelligence models as part of its strategy to compete with established AI companies including OpenAI and Anthropic. This move reflects the intensifying competition in the generative AI sector, where multiple technology companies are developing large language models and AI systems.",
+        "The specific capabilities, technical specifications, and release details of Meta's new models are not available from this headline alone. Further reporting would be needed to understand how these models compare to competitors or what applications Meta intends for them."
+      ],
+      "why": "This development is significant because it shows how major technology companies are investing heavily in AI competition, potentially affecting which AI tools become dominant in consumer and enterprise markets. Meta's entry into direct competition with OpenAI and Anthropic could influence AI research direction and accessibility.",
+      "evidence": {
+        "quality": "Low - only headline and publication metadata available",
+        "limitations": "The actual article content was not provided. This briefing is based solely on the headline from Anadolu Ajansı. Specific details about the models, their capabilities, performance metrics, release dates, or strategic goals cannot be verified from this source material."
+      },
+      "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVkR1S3ZsalZkRjlRRkxEdVVBbU5ENUdtM3AxanQ1cXdNUW40RTNWRkkyUFJ0N3dmS0Nyd1oyUlBxUktvZ29pMGdDWXA1anFzNHVsQzZtRGs2ei16Nk5LOFZfZzVUbTVHSHRDS2lTMHlsX1oweEY5NEJUa0lGWnA1R2lzTURJclBMYmxaci1xcmRYMEhnMEFNSm5LSkVOd040?oc=5",
+      "date": "Tue, 13 Oct 2026 08:21:54",
+      "featured": false
+    },
+    {
+      "id": "8020023ce9101ecb",
+      "category": "AI & Technology",
+      "tag": "AI POLICY & COPYRIGHT",
+      "readTime": 3,
+      "title": "OpenAI, Anthropic, Google, Microsoft flag Australian copyright barriers to AI training - MLex",
+      "dek": "Major AI companies have raised concerns about Australian copyright laws potentially restricting their ability to use content for training artificial intelligence systems.",
+      "summary": [
+        "OpenAI, Anthropic, Google, and Microsoft have flagged Australian copyright regulations as barriers to AI training, according to reporting by MLex. The companies appear to be advocating for clearer or more permissive copyright frameworks that would allow them to use published content in developing AI models.",
+        "The issue reflects ongoing global tension between AI developers who argue they need broad access to training data and copyright holders who contend their intellectual property is being used without permission or compensation. Australia's copyright laws currently create uncertainty about what content can legally be used for AI training purposes.",
+        "This report is part of a broader pattern of AI companies engaging with governments worldwide on copyright policy, as regulators grapple with how existing intellectual property frameworks apply to machine learning and generative AI technologies."
+      ],
+      "why": "Copyright policy directly affects how AI companies can operate and develop their products. Australia's regulatory stance could influence other countries' approaches and set precedent for balancing innovation with creator protections.",
+      "evidence": {
+        "quality": "Low to moderate",
+        "limitations": "This briefing is based on a news headline and feed description only. The full article text was not accessible for review. Specific details about which copyright barriers were flagged, what changes companies proposed, or direct quotes cannot be verified from the source material provided."
+      },
+      "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVUJPWTlKZjNmSWV3OHBQd2xLcFJqVlVxSzNwb1l6N282M1d3d3dfUHJlSUxOdko3ZENLYVBhRkFmZ3FzTk9SNVNDMi1iUmJNUHJIZEhIVlFVNDB6a2FwemtObGphSmNhUkVodDdjMGJYeVdJdVR3QTVTYU1sMVloM2lkU2pESlkweFh3emgzUGtuNnBvTnZjeFJDaUwxNUNZZlF1czBDR3ZZa0VVQlFnR0dmUUlLNGpUQTJIZ0RTbEVHTDFB0gFaQVVfeXFMUGtQdVBBaHpZMG5ZVWx4TWxrclRnVWFtYm1NakF0SlN5dGtfQi1oamVSTUJkQ043bi1Da1ZjMkJtUVVoM1JhcWhLUm9yVzFieXV5V29IdXhJSVFB?oc=5",
+      "date": "Thu, 08 Oct 2026 06:19:11",
+      "featured": false
+    },
+    {
+      "id": "cd27c849f675de5d",
+      "category": "AI & Technology",
+      "tag": "AI COMPETITION",
+      "readTime": 3,
+      "title": "Google overtakes Anthropic in prediction markets to lead 2026 AI race (GOOGL:NASDAQ) - Seeking Alpha",
+      "dek": "Prediction markets show Google gaining ground on Anthropic in AI development race expectations for 2026.",
+      "summary": [
+        "According to Seeking Alpha reporting on prediction market data, Google has moved ahead of Anthropic in market odds related to AI developments expected in 2026. Prediction markets aggregate beliefs from participants betting on future outcomes.",
+        "Prediction markets serve as one indicator of expert and informed participant expectations, though they reflect financial incentives and sentiment rather than technical capabilities or confirmed achievements.",
+        "The report does not specify which particular AI milestones or capabilities the markets are predicting, nor provide details on market size, participant composition, or specific odds."
+      ],
+      "why": "AI leadership and capability milestones carry significant implications for technology industry competition, investment flows, and potential applications across sectors. Prediction market signals can influence investor perception and capital allocation.",
+      "evidence": {
+        "quality": "Low",
+        "limitations": "This briefing is based on a headline and description only. The full article was not accessed. Prediction markets reflect opinions and financial bets rather than verified technical facts. No specific AI capabilities, timelines, or methodology are detailed in the available text. Original sources of the prediction market data are not identified."
+      },
+      "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZzlWRE92UGUtNGNGc1RwNFpQUGFIalEtTXZSc2ZNNWFsYVpUMzBVRUJOaGw3RDFuTWduWGpwSjM0SkVTZ0xQVHR6MU5qTGI2ZWZpWGQtbFgzdHBEZjVUcWcwQnZOUHlQbUZ3TW9sSklLVE45aDRiazQyNThmOFRTNUhVTzNzQkg1eXA2M3JBUWdXUXc2SUNIbzdoeXVJRlR3c1pxSHZzSENEemc?oc=5",
+      "date": "Thu, 08 Oct 2026 19:04:50",
+      "featured": false
+    },
+    {
+      "id": "1299e0f4fec98b97",
+      "category": "Gaming",
+      "tag": "GAMING INDUSTRY",
+      "readTime": 3,
+      "title": "PAX West 2026 brought gaming industry leaders, new demos and indie games to Seattle - Lynnwood Times",
+      "dek": "PAX West 2026 drew major gaming companies and independent developers to Seattle for industry showcases and game demonstrations.",
+      "summary": [
+        "PAX West 2026 took place in the Seattle-Lynnwood area, featuring presentations and booth demonstrations from gaming industry leaders alongside independent game developers. The event provided a venue for companies to showcase upcoming titles and new gameplay experiences.",
+        "The conference included playable demos of games in development and opportunities for industry professionals and gaming enthusiasts to connect. Both established publishers and indie studios participated in the annual event."
+      ],
+      "why": "PAX West is a significant gaming industry gathering that influences game development trends, marketing strategies, and community engagement in the Pacific Northwest region.",
+      "evidence": {
+        "quality": "Limited",
+        "details": "The source headline and feed description confirm the event occurred and the general categories of participants (industry leaders, indie developers, new demos), but the full article content is not available for verification of specific announcements, companies present, or game titles featured."
+      },
+      "source": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hNmZqT3U0X1ZoYU1iMkVDOG5GZU10NkZHRWtUTHFoZngwS3o0dnljUWU3RVlHUmM5UHl0ekJVenlPN28xMmlKRmF4U1pSWVEzOE9TWWY5ZlpGZw?oc=5",
+      "date": "Fri, 09 Oct 2026 13:33:12",
+      "featured": true
+    },
+    {
+      "id": "5601ea98ad6cc7f4",
+      "category": "Gaming",
+      "tag": "GAMING & AI",
+      "readTime": 3,
+      "title": "Epic Games reportedly pivoting to \"AI first\" game development model - Ars Technica",
+      "dek": "Epic Games is reportedly shifting its game development strategy to prioritize artificial intelligence tools and processes.",
+      "summary": [
+        "According to Ars Technica reporting, Epic Games is moving toward an 'AI first' development model for its game production pipeline. The specific details of this strategic shift have not been verified from the source material provided.",
+        "This reported change reflects broader industry trends of integrating AI tools into creative and technical workflows. The exact scope—whether this affects all Epic projects, specific studios, or particular development phases—cannot be confirmed from the available headline and description."
+      ],
+      "why": "This matters because Epic Games is a major player in gaming and game engine development (Unreal Engine), so its strategic choices influence industry practices. How major studios adopt or implement AI in game development affects employment, creative processes, and the future landscape of game production.",
+      "evidence": {
+        "quality": "Low - based on headline and brief description only. The full Ars Technica article was not available for review.",
+        "limitations": "Cannot verify specific claims about the pivot, its scope, timeline, or implementation details. The report is characterized as 'reportedly,' indicating it is a claim rather than confirmed information from Epic Games official statements."
+      },
+      "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb3ZDOS1wQVVMV1hiTHBLM0hqc0p0QzdGRmpESUZxRFpnakNqOWVwTlJGbnRJc2F0WnZoMFl6WXN0eG1feUJSUGQ4VUdPYXJRU3JzMmZ1ZWdnSWdhOXN0Q2l3ZEd4NWhBdDFJc3Fsd0h4NEVpdmVvTHVOUGh0NDdGMjM5bF9NcUdCdEJOY0EwNjBUeWhRZkx5bGVUdVhpQzVEUnc?oc=5",
+      "date": "Mon, 12 Oct 2026 20:59:50",
+      "featured": false
+    },
+    {
+      "id": "a02883c2f1ba8b66",
+      "category": "Gaming",
+      "tag": "AI IN GAMING",
+      "readTime": 3,
+      "title": "Epic Games Goes AI-First for Disney Game Development - The Tech Buzz",
+      "dek": "Epic Games is adopting AI-first development approaches for new Disney game projects.",
+      "summary": [
+        "Epic Games and Disney are collaborating on game development with artificial intelligence as a central component of the production process. The partnership reportedly emphasizes AI-first strategies, though specific game titles and detailed implementation methods are not confirmed in available reporting.",
+        "This development reflects a broader industry trend of integrating AI tools into game creation pipelines. AI applications in game development typically include asset generation, procedural content creation, and development workflow optimization."
+      ],
+      "why": "This matters because it signals how major entertainment companies are adopting AI technologies in creative production. It may influence industry standards for game development practices and raises questions about AI's role in creative industries.",
+      "evidence": {
+        "quality": "Low-to-moderate. Source is a Google News RSS feed headline with limited context.",
+        "limitations": "Full article text was not provided. Specific claims about scope, timeline, games affected, and technical details cannot be verified from the headline alone. No direct quotes or official statements from Epic Games or Disney are included in available material."
+      },
+      "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNnVSbE9nTzBURVdlcjhJWmdVcGdYZmtPbXY0YWcyaU1IbVBIb0lLWTYxV0xlRWREVmpiTzd5NkRUaXBPaEZWajI2TVMzTUlPb3h6RmNyaUFwRFBtTVhxU1ZncXZORW9zcVh5Q2JpRmpLUF9DdHlNT096Vnl5dHJiLS12cmlmQkVwWVRoMGNR?oc=5",
+      "date": "Tue, 13 Oct 2026 16:08:00",
+      "featured": false
+    },
+    {
+      "id": "4e296603b3ed7c69",
+      "category": "Politics & World",
+      "tag": "POLITICS",
+      "readTime": 3,
+      "title": "Poll: Majority of Americans say Trump prioritizes his personal financial interests over U.S. as a whole - PBS",
+      "dek": "A PBS poll finds that a majority of Americans believe former President Trump prioritizes his personal financial interests over the broader interests of the United States.",
+      "summary": [
+        "According to a PBS poll, more than half of Americans surveyed say Trump prioritizes his own financial interests ahead of the country's well-being. The poll reflects public perception of Trump's focus and priorities.",
+        "This finding is part of broader polling on how Americans view Trump's motivations and leadership approach. The specific poll numbers, methodology, and demographic breakdowns are not detailed in the available headline and description."
+      ],
+      "why": "Public perception of a political figure's motivations—particularly whether they are seen as self-interested or public-minded—can influence voting behavior, political engagement, and trust in leadership.",
+      "evidence": {
+        "quality": "Limited - only headline and metadata available",
+        "details": "Source is PBS, a reputable news organization. However, the full article is not accessible here, so specific poll details cannot be verified, including: sample size, margin of error, polling dates, exact question wording, demographic breakdowns, and comparison to other polling.",
+        "limitations": "Cannot confirm the precise percentage claiming Trump prioritizes personal interests, methodology quality, or context from the full reporting."
+      },
+      "source": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc1QySFdLZlNYaWx1WDJ1N0VuUDhNZkhsN3pnUWxUQzJodzVlV1JISlNfSWRsT0VMMmxYeXZrYVM2RVZrS3NsOHB5bUxTT0I3bkZMZEpuVHZBalhINjNXYlJ0eUtsRkdpWE95VUpCMDRVNzhjOTZ2MnkyOVpnRHVDalQ4X0p2Rjk4VzdzWWl2LWpEQ2phQm5GUlVCSF9DY0N6VnZNUGQ4RXo5cG0yS1NyaG9BT3YyMDZNS05mNFluaDAwTEtLUU5XNExaSGZiVGVxUzZPWGdB0gHbAUFVX3lxTE5Kcld3NC1zRFpncjUxVG01RURCWnp3UldiRGwxZEpRbERtMi1RTjFQYzVjVkM1Umo4MnV0Y3J2QUJCLThLSDBrRkt2dEZrVmpwT0ZUbGhnalFBUXBTQjNhNjJGZmlFU29SRi14SDZxcFlRMUFtbTBWS2ZtUzNBQlZNaTlGTkZXUzNzUFJRSHJ3X0owOVRzRDBicnZhUUs4R2ExU1dmSkd2NWx4Zmh1VDIxVGFSUG1zZ2RmazByZV8xTFJoQVNCN0NwWlliYjR1SHdWTGliUEpzcnYyVQ?oc=5",
+      "date": "Tue, 13 Oct 2026 16:30:25",
+      "featured": true
+    },
+    {
+      "id": "5c76c96c740357c3",
+      "category": "Politics & World",
+      "tag": "CAMPAIGN FINANCE",
+      "readTime": 3,
+      "title": "Public financing of California’s electoral campaigns could curb power of money in politics - CalMatters",
+      "dek": "California is considering public financing for electoral campaigns as a potential way to reduce the influence of private money in politics.",
+      "summary": [
+        "CalMatters reports on a proposal for public financing of California's electoral campaigns. The approach would provide candidates with public funds to conduct their campaigns, potentially reducing their dependence on private donations and wealthy donors.",
+        "Public campaign financing systems operate in some other U.S. states and jurisdictions. Proponents argue such systems can level the playing field for candidates without access to large donor networks and reduce the influence of special interests in political decision-making.",
+        "The proposal represents one approach to campaign finance reform, though specific details about California's proposed system, implementation timeline, and estimated costs are not detailed in this headline and description alone."
+      ],
+      "why": "Campaign finance is a contentious political issue. How elections are funded can influence which candidates are viable and potentially affect policy priorities once elected. This proposal addresses concerns about wealthy donors having outsized influence on elected officials.",
+      "evidence": {
+        "quality": "Limited details available from headline and description",
+        "limitations": "The source material provided does not include the full article text, specific policy details, financial projections, expert analysis, or comparative data from other jurisdictions. Claims about effectiveness of public financing require examination of the complete reporting."
+      },
+      "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObnZZcUtJMWc3aHROVVNtM3lWNzdTZFVKNXhZVTM4ZjM2dFVRb2dkN3pSamh3TG0wZVBSalBfSTZvaXotaW9OQnlBUm5mMkdfNGdnVkJ6djdpMDlIcXo3MjZ3NjRMczF2QVZqcXJfRzBROWlQbjdKejFidGdNSFRjLU8yT1ZhLTNWMFJxMm1NWV9WRXRIMHlJ?oc=5",
+      "date": "Fri, 09 Oct 2026 12:00:00",
+      "featured": false
+    },
+    {
+      "id": "3285cb4fd9cb0d1f",
+      "category": "Politics & World",
+      "tag": "ELECTION 2026",
+      "readTime": 3,
+      "title": "Will Democrats Win Back Voters This Year? - Dartmouth",
+      "dek": "A Dartmouth analysis examines Democratic strategies to regain voter support in the 2026 election cycle.",
+      "summary": [
+        "Dartmouth researchers have published analysis on Democratic electoral prospects, focusing on the party's efforts to appeal to voters and shift the political landscape ahead of the 2026 elections.",
+        "The piece examines factors that may influence voter behavior, including policy positions, campaign messaging, and voter preferences across different demographics and regions.",
+        "The analysis contributes to broader discussions about electoral dynamics and what strategies political parties may employ to improve their electoral performance."
+      ],
+      "why": "Election forecasting and voter analysis help the public understand political dynamics, polling trends, and the issues driving electoral behavior. This matters as 2026 midterm elections approach.",
+      "evidence": {
+        "quality": "Limited - full article content not accessed",
+        "limitations": "This briefing is based on headline and metadata only. Specific findings, data sources, methodology, and supporting evidence from the Dartmouth analysis cannot be verified without access to the complete article. Readers should consult the original source for detailed methodology and claims."
+      },
+      "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQakRlNERtMGdZaFhwTHd6QkN1UnpfTE5WUUVJX2VGUldlTXVRdXFpNFY1bDhyRjVxYldJeWdfamZfRUJ0QzNjLXY3VVpyVF9qUDZXSGl3U1RXT2JLWE1udEtpRzNkUjJ3ZWotSWI5UGlMQ0J5WTVUQ1hzLXotYjVHdw?oc=5",
+      "date": "Wed, 07 Oct 2026 19:16:21",
+      "featured": false
+    },
+    {
+      "id": "124ba91c941f4980",
+      "category": "Politics & World",
+      "tag": "MIDTERM ELECTIONS",
+      "readTime": 3,
+      "title": "Five Things to Know About the Midterms - Council on Foreign Relations",
+      "dek": "The Council on Foreign Relations outlines key points to understand about the upcoming midterm elections.",
+      "summary": [
+        "The Council on Foreign Relations has published an explainer identifying five important aspects of the midterm elections. The full content of these five points cannot be verified from the headline and metadata alone.",
+        "This briefing appears designed to help the public understand significant factors or issues relevant to midterm voting. Without access to the complete article text, specific details about what these five points entail remain unconfirmed."
+      ],
+      "why": "Midterm elections typically affect legislative representation and policy direction. Understanding key issues helps voters make informed decisions, and expert analysis from foreign policy organizations can provide important context about potential impacts on domestic and international affairs.",
+      "evidence": {
+        "quality": "Cannot fully assess",
+        "details": "Source is identified as Council on Foreign Relations, a recognized think tank, but only the headline and metadata are available. The full article content needed to verify specific claims, statistics, or arguments has not been provided."
+      },
+      "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fYnBMSFdZd2dsZG44cmx3YjR4X0p3Z3N5QWVjLW9HTHdnV0xFUmxVSzlnT0M1eHJHSUtpa0JrbmdPbk9RRl9HRk9Hc1RFWU5VeVBEX2NZaTdLS3BLaUNJWVV3N0dPcmJTY2V4YkItYzRjUEJlZVE?oc=5",
+      "date": "Tue, 13 Oct 2026 16:17:42",
+      "featured": false
+    },
+    {
+      "id": "0fe889c9621d12cc",
+      "category": "Politics & World",
+      "tag": "2026 MIDTERM ELECTIONS",
+      "readTime": 3,
+      "title": "One Month Out: The Forces Shaping the 2026 Midterms | Newswise - Newswise",
+      "dek": "Key political and social forces are shaping voter priorities and campaign strategies as the 2026 midterm elections approach.",
+      "summary": [
+        "With one month until the 2026 midterm elections, multiple factors are influencing the political landscape. These include voter concerns, economic conditions, and campaign messaging strategies across both major parties.",
+        "The article discusses forces at play in determining electoral outcomes, though specific details about which issues or conditions are emphasized are not available in the headline and feed description alone.",
+        "Political analysts are examining how these various forces may impact candidate performance and overall midterm results."
+      ],
+      "why": "Midterm elections are significant for determining congressional representation and can shift the balance of power in government. Understanding the key forces shaping voter behavior helps the public make informed electoral decisions.",
+      "evidence": {
+        "quality": "LIMITED",
+        "details": "Only the headline, publication date, source attribution (Newswise), and category are available. The full article content was not provided, preventing verification of specific claims, statistics, or analysis presented.",
+        "limitations": "Cannot assess the credibility of specific arguments, data sources, or balance of coverage without access to the complete article text."
+      },
+      "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeWhWSTJIM2Vud1hEUm9Ra0RFdTJNX094SUJvVFNFR2RWVG5qbUtsb1gydFVmQmZaU1NZZ3RfV1laZnpJcm81S1FuTUJsdW1DSUppZzdDcVhhZUZXMUJEdllqM0RKWUtpeTVVSHRoVVJUa3AybzhHRVZrZnoxTm9aVjVacWlCaE9zMTdXRtIBjAFBVV95cUxOeWhWSTJIM2Vud1hEUm9Ra0RFdTJNX094SUJvVFNFR2RWVG5qbUtsb1gydFVmQmZaU1NZZ3RfV1laZnpJcm81S1FuTUJsdW1DSUppZzdDcVhhZUZXMUJEdllqM0RKWUtpeTVVSHRoVVJUa3AybzhHRVZrZnoxTm9aVjVacWlCaE9zMTdXRg?oc=5",
+      "date": "Wed, 07 Oct 2026 01:10:00",
+      "featured": false
+    }
   ]
 }
