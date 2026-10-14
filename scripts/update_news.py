@@ -6,15 +6,15 @@ import hashlib
 from datetime import datetime, timezone
 from urllib.parse import quote
 import feedparser
-from openai import OpenAI
+from anthropic import Anthropic
 
 OUTPUT = "articles.json"
-API_KEY = os.environ.get("OPENAI_API_KEY")
+API_KEY = os.environ.get("ANTHROPIC_API_KEY")
 
 if not API_KEY:
-    raise RuntimeError("OPENAI_API_KEY is not configured")
+    raise RuntimeError("ANTHROPIC_API_KEY is not configured")
 
-client = OpenAI(api_key=API_KEY)
+client = Anthropic(api_key=API_KEY)
 
 SOURCES = {
     "Hospital Medicine": [
@@ -117,23 +117,28 @@ Rules:
 - Avoid unsupported clinical recommendations.
 """
 
-    response = client.chat.completions.create(
-        model="gpt-4o-mini",
+   
+    response = client.messages.create(
+        model="claude-haiku-4-5-20251001",
+        max_tokens=1200,
         temperature=0.2,
-        response_format={"type": "json_object"},
+        system=(
+            "You are a careful medical research and "
+            "news briefing editor. Return only valid JSON."
+        ),
         messages=[
-            {
-                "role": "system",
-                "content": (
-                    "You are a careful medical research "
-                    "and news briefing editor."
-                )
-            },
             {"role": "user", "content": prompt}
         ]
     )
 
-    return json.loads(response.choices[0].message.content)
+    raw = response.content[0].text.strip()
+
+    if raw.startswith("```"):
+        raw = raw.split("\n", 1)[1]
+        raw = raw.rsplit("```", 1)[0].strip()
+
+    return json.loads(raw)
+
 
 
 def main():
