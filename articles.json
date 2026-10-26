@@ -1,6 +1,6 @@
 {
   "edition": "Weekly Intelligence Brief",
-  "updated": "2026-10-19",
+  "updated": "2026-10-26",
   "articles": [
     {
       "id": "56abf82376280a82",
@@ -8,18 +8,17 @@
       "tag": "TELEHEALTH EDUCATION",
       "readTime": 3,
       "title": "Telehealth-related education and training: a systematic review of recent developments since the COVID-19 pandemic.",
-      "dek": "A systematic review identified 51 telehealth education programs developed since 2020, mostly in US universities and targeting undergraduates, but found most curricula lack comprehensive coverage of ethical, legal, and clinical competencies.",
+      "dek": "A systematic review of 51 telehealth education programs developed since 2020 found expanding training initiatives, but most lack comprehensive coverage of competency domains and experiential learning.",
       "summary": [
-        "This systematic review examined telehealth-related education and training programs implemented between 2020 and 2024. The authors searched available literature and included 51 articles from 7,547 identified records that described specific program content or learning objectives for any educational level or health professional type. Quality assessment used SQUIRE 2.0 guidelines, and learning objectives were mapped to six Association of American Medical Colleges (AAMC) telehealth competency domains.",
-        "Most programs (82%) were implemented in the USA, developed by universities (53%), and targeted undergraduate students (51%), with increasing publication frequency over the review period. Participants evaluated courses in 90% of programs. Course content typically included basic telehealth knowledge and skills, patient safety, and ethics, with particular emphasis on technology and communication competencies. Only four of 51 programs included all six AAMC telehealth competencies.",
-        "The authors concluded that while telehealth education has expanded since the COVID-19 pandemic onset, current curricula are limited by lack of experiential learning and insufficient coverage of ethical and legal requirements, billing, physical examination techniques, patient education, and telehealth eligibility criteria. The review suggests standardized training applicable across disciplines with specialty-specific modules could improve resource efficiency."
+        "This systematic literature review identified telehealth-related training and education programs implemented between 2020 and 2024. The authors searched peer-reviewed literature and included 51 articles (of 7,547 identified) that described specific program content or learning objectives for any educational level or health professional. Most programs were implemented in the USA (82%) and targeted to undergraduate students (51%), with increasing publication over the study period.",
+        "Most courses were developed by universities (53%), often in collaboration with health services, with content applicable across multiple specialties. Nearly all programs (90%) included participant evaluation. Course content typically addressed basic telehealth knowledge and skills, patient safety, and ethics, with learning objectives frequently focused on technology and communication. However, only four programs included all six Association of American Medical Colleges (AAMC) telehealth competency domains.",
+        "The authors concluded that while telehealth education has expanded since the COVID-19 pandemic onset, current curricula lack experiential learning and comprehensive coverage of domains including ethics, legal requirements, billing, physical examination techniques, patient education, and telehealth eligibility criteria. The review suggests that standardised training applicable across disciplines, supplemented with site or specialty-specific modules, could improve resource efficiency."
       ],
-      "why": "These findings are relevant to medical educators and healthcare system leaders designing workforce development in telehealth delivery. The gap between existing training programs and comprehensive competency frameworks may inform curriculum development discussions, particularly regarding clinical skills assessment and regulatory compliance in remote care. However, this review describes current educational offerings without determining optimal training approaches or patient outcomes associated with different curricula.",
+      "why": "This review documents the landscape of telehealth training development in response to pandemic-driven healthcare delivery changes. Understanding gaps in existing curricula—particularly in ethics, legal frameworks, and clinical skills—may inform discussions among medical educators, curriculum developers, and health systems about competency standards needed for competent telehealth practice across professions.",
       "evidence": {
         "design": "Systematic literature review with independent dual data extraction and quality assessment against SQUIRE 2.0 guidelines",
-        "sample": "51 articles included from 7,547 initial records identified; specific numbers of students, trainees, or programs not reported",
-        "limitations": "Abstract does not specify literature databases searched, date ranges for inclusion, publication status restrictions, or inter-rater reliability measures. No information provided on whether included studies reported validated competency assessment outcomes. Geographic bias toward USA programs noted. Full paper assessment necessary to evaluate methodological quality and generalizability of findings.",
-        "uncertainty": "Reasons for exclusion of 7,496 articles not detailed. Whether identified gaps reflect educational priorities versus resource constraints unknown. No information on follow-up assessment of trainee competency or healthcare delivery outcomes post-training."
+        "sample_size": "51 included articles from 7,547 identified records",
+        "limitations_and_uncertainty": "The abstract does not specify the search strategy details, database(s) searched, or geographic limitations beyond noting that 82% of included programs were from the USA, which may reflect publication bias. No interrater reliability statistics or sensitivity analyses are mentioned. The quality assessment against SQUIRE 2.0 is noted but specific quality ratings are not reported. Conclusions about missing content (experiential learning, ethics, legal requirements) are derived from content analysis of published descriptions; actual curriculum comprehensiveness may differ."
       },
       "source": "https://pubmed.ncbi.nlm.nih.gov/42878291/",
       "date": "Recently indexed in PubMed",
@@ -29,149 +28,182 @@
       "doi": "10.1080/10872981.2026.2692839"
     },
     {
-      "id": "29e8aa489872c0d2",
+      "id": "2531570a037ea628",
       "category": "Hospital Medicine",
-      "tag": "CHILD MALTREATMENT SURVEILLANCE",
+      "tag": "PNEUMOCOCCAL VACCINE IMMUNOGENICITY",
       "readTime": 3,
-      "title": "Child Maltreatment During COVID-19: Triangulating Data Across Reporting Sources.",
-      "dek": "A systematic review of 73 studies found discordant trends in child maltreatment reporting during COVID-19, with child welfare data suggesting declines but self-report studies documenting increases.",
+      "title": "Safety and immunogenicity of the 24-valent pneumococcal conjugate vaccine in healthy Chinese adults: two single-center, randomized, double-blind Phase 1 and Phase 2 trials.",
+      "dek": "A 24-valent pneumococcal conjugate vaccine demonstrated favorable safety and robust immunogenicity against all 24 serotypes in Chinese adults aged 18 years and older in Phase 1/2 trials.",
       "summary": [
-        "This systematic review used PRISMA criteria to examine changes in child maltreatment rates during the COVID-19 pandemic. Researchers identified 4,193 unique studies and selected 73 that met eligibility criteria. The review triangulated data across three independent surveillance sources: child welfare administrative records, hospital reports, and self-report studies.",
-        "Results showed divergent patterns by data source. Child welfare sources reported declining maltreatment rates immediately following COVID-19 onset. In contrast, self-report studies documented increasing trends. Hospital data were largely mixed, with more studies reporting decreased rather than increased child maltreatment during this period.",
-        "The authors emphasize that interpretation of child maltreatment surveillance data during COVID-19 must account for evidence from multiple data sources, as different reporting mechanisms can yield substantially different conclusions about population-level trends. The discordance across data sources suggests complex relationships between pandemic stressors and actual versus reported maltreatment."
+        "Two single-center, randomized, double-blind Phase 1 and Phase 2 trials evaluated PCV24 in healthy Chinese adults aged ≥18 years. Phase 1 enrolled 240 participants randomized to low-dose PCV24, high-dose PCV24, PPSV23, or placebo. Phase 2 enrolled 992 participants randomized to three PCV24 formulations (varying dose and adjuvant content), PPSV23, or comparator groups.",
+        "Post-vaccination adverse reactions within 30 days were predominantly grade 1–2 severity, with rare grade 3 events occurring only in the 0–7 day window. No vaccine-related serious adverse events were reported over the 6-month follow-up period. Immunogenicity testing in Phase 2 demonstrated that the high-dose PCV24 group met non-inferiority criteria for IgG seroconversion against all 24 serotypes compared with PPSV23.",
+        "These findings suggest PCV24 offers an expanded serotype coverage with an acceptable tolerability profile in adults. The results support advancing to larger efficacy trials, though effectiveness in preventing pneumococcal disease and performance in specific risk populations remain to be established."
       ],
-      "why": "This review is relevant for understanding surveillance challenges in child protection and public health monitoring during crises. The finding that different data sources yield opposite conclusions highlights the importance of multi-method approaches when assessing harm to vulnerable populations. It informs discussion about underreporting in official systems, potential changes in help-seeking behavior, and how policy decisions during emergencies should not rely on a single surveillance stream.",
-      "evidence": {
-        "design": "Systematic review using PRISMA methodology; observational, not randomized",
-        "sample_size": "4,193 studies screened; 73 studies meeting eligibility criteria included in analysis",
-        "major_limitations": "Abstract does not specify inclusion criteria details, quality assessment methodology, geographic scope, study designs included, or effect sizes for individual findings. Reasons for the discordance between data sources are not explained in the abstract. Full-text assessment of methodological rigor, heterogeneity across studies, and meta-analysis presence or absence cannot be determined from this abstract."
-      },
-      "source": "https://pubmed.ncbi.nlm.nih.gov/42831545/",
+      "why": "Current pneumococcal vaccines cover limited serotypes; a 24-valent option could broaden protection if efficacy is confirmed. These phase data from a Chinese population are relevant to global vaccine development discussions and may inform regional immunization strategies pending larger trials. However, immunogenicity does not guarantee clinical efficacy.",
+      "evidence": "Design: Two randomized, double-blind, controlled phase trials. Sample sizes: 240 (Phase 1) and 992 (Phase 2) participants. Major limitations: single-center design; no efficacy data (immunogenicity surrogate only); no effect sizes, confidence intervals, or statistical comparisons provided in abstract; follow-up limited to 6 months for safety; generalizability to non-Chinese populations unclear; full safety and immunogenicity analyses not detailed.",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/42908339/",
       "date": "Recently indexed in PubMed",
       "featured": false,
-      "journal": "Child maltreatment",
-      "pmid": "42831545",
-      "doi": "10.1177/10775595251370230"
+      "journal": "Expert review of vaccines",
+      "pmid": "42908339",
+      "doi": "10.1080/14760584.2026.2746803"
     },
     {
-      "id": "88919d28fe104742",
+      "id": "c32e8b157785b05c",
       "category": "Hospital Medicine",
-      "tag": "POST-COVID-19 REHABILITATION INTERVENTIONS",
+      "tag": "MULTI-VACCINE IMMUNOGENICITY TRIAL",
       "readTime": 3,
-      "title": "Effectiveness of physical, psychological, and alternative interventions for post-COVID-19 condition: a systematic review.",
-      "dek": "A systematic review of 27 randomized trials found that supervised physical rehabilitation and cognitive-behavioral therapy show promise for improving function and reducing symptoms in post-COVID-19 condition, though most included trials had methodological limitations.",
+      "title": "Evaluating a multi-vaccine respiratory immunization strategy involving SARS-CoV-2, pneumococcal, and influenza vaccines in adults: A randomized, open-label, multicenter, controlled, non-inferiority Phase IV trial in China.",
+      "dek": "A randomized Phase IV trial in China found that co-administering inactivated SARS-CoV-2, pneumococcal, and influenza vaccines together preserved immune responses and demonstrated acceptable safety in adults.",
       "summary": [
-        "This systematic review evaluated randomized controlled trials of supervised physical, psychological, and alternative non-pharmacological interventions in adults with post-COVID-19 condition as defined by the World Health Organization. The review searched four databases from January 2020 through January 2026 and included 27 trials enrolling 1,998 participants. Risk of bias was assessed using Cochrane RoB 2 methodology.",
-        "Supervised cardiopulmonary rehabilitation and multimodal exercise consistently improved cardiorespiratory fitness and walking capacity. Cognitive-behavioral therapy and lifestyle adjustments significantly reduced fatigue and subjective concentration complaints. By contrast, findings for neuromodulation, complementary therapies, and oxygen therapies were heterogeneous and often showed no advantage over placebo or control conditions.",
-        "The authors concluded that supervised physical rehabilitation and CBT demonstrate promising evidence for improving functional capacity and symptoms in post-COVID-19 condition. However, only 18.5% of included trials met criteria for low risk of bias, with common limitations including small sample sizes, inability to blind participants and staff, and short follow-up periods. Larger, better-designed trials with longer follow-up are needed to establish effectiveness and guide clinical recommendations."
+        "This randomized, open-label, multicenter Phase IV trial enrolled 1,404 adults aged ≥18 years (with equal representation of adults aged 18–59 and ≥60 years) across China. Participants were assigned to three groups: co-administration of WIBP-CorV (inactivated SARS-CoV-2 vaccine) with PPV23 (23-valent pneumococcal polysaccharide vaccine) on Day 0 followed by WIBP-CorV with IIV4 (quadrivalent inactivated influenza vaccine) on Day 28; WIBP-CorV alone on Days 0 and 28; or PPV23 on Day 0 followed by IIV4 on Day 28. The trial was designed as a non-inferiority comparison.",
+        "Co-administration preserved humoral immune responses across all vaccine platforms. Non-inferiority was demonstrated for SARS-CoV-2 neutralizing antibodies and pneumococcal serotype-specific IgG responses when co-administered vaccines were compared with separate administration. Seroconversion rates were non-inferior for all pneumococcal serotypes, though results were less consistent for SARS-CoV-2 (after the second dose) and influenza A(H1N1). Age-stratified findings showed age- and strain-specific variation requiring cautious interpretation.",
+        "The safety profile was acceptable, with only slightly elevated rates of mild, transient local reactions in the co-administration group and no vaccine-related serious adverse events reported. The authors conclude that co-administering these three vaccines is feasible while maintaining immunogenicity and safety in the populations studied, potentially streamlining adult respiratory immunization programs."
       ],
-      "why": "These findings may inform clinical discussions about evidence-based options for patients with persistent post-COVID-19 symptoms. The consistent benefit of structured physical rehabilitation and psychological therapy could support conversations about rehabilitation pathways, while the lack of benefit for some alternative approaches may help clinicians discuss realistic expectations. The quality limitations underscore the need for caution in generalizing results to broader populations.",
-      "evidence": "Systematic review of randomized controlled trials. Total sample: 1,998 participants across 27 trials. Major limitations: only 18.5% of trials had low risk of bias; small sample sizes in most studies; inability to blind intervention delivery; short follow-up duration; and substantial clinical and methodological heterogeneity precluding meta-analysis (narrative synthesis performed instead). Specific effect sizes and confidence intervals are not provided in the abstract.",
-      "source": "https://pubmed.ncbi.nlm.nih.gov/42895360/",
+      "why": "Multi-vaccine co-administration strategies may improve immunization coverage and reduce clinical visit burden if immunogenicity is preserved. These results contribute evidence on whether simultaneous administration of SARS-CoV-2, pneumococcal, and influenza vaccines is immunologically compatible in adults. However, clinically meaningful non-inferiority thresholds and the clinical significance of less consistent seroconversion for certain strains require further discussion in the context of established immunization guidelines.",
+      "evidence": "Randomized, open-label, controlled, non-inferiority Phase IV trial. Sample size: 1,404 adults. Major limitations: open-label design (no blinding); trial conducted in China, limiting generalizability; age-stratified findings were inconsistent across pathogens and strains; specific immunogenicity thresholds for non-inferiority and actual effect sizes are not provided in the abstract; the full text was not reviewed to assess whether clinical outcomes or disease prevention were evaluated.",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/42904667/",
       "date": "Recently indexed in PubMed",
       "featured": false,
-      "journal": "Journal of rehabilitation medicine",
-      "pmid": "42895360",
-      "doi": "10.2340/jrm.v58.46279"
+      "journal": "Human vaccines & immunotherapeutics",
+      "pmid": "42904667",
+      "doi": "10.1080/21645515.2026.2747495"
     },
     {
-      "id": "d17e0df4c836e2c5",
+      "id": "1fd1b6bc1b06d2fd",
       "category": "Hospital Medicine",
-      "tag": "MINIMALLY INVASIVE ESOPHAGEAL SURGERY",
+      "tag": "INFECTION PREVENTION QUALITY IMPROVEMENT ICU",
       "readTime": 3,
-      "title": "Uniportal versus Multiportal Video-Assisted Thoracoscopic Surgery for Minimally Invasive Esophagectomy in Esophageal Cancer: A GRADE-Assessed Systematic Review and Meta-Analysis.",
-      "dek": "Uniportal video-assisted thoracoscopic surgery (uVATS) for esophageal cancer shows potential advantages over multiportal VATS in reducing postoperative pain and pneumonia, with comparable safety outcomes.",
+      "title": "Effectiveness of Quality Improvement Strategies in Preventing Healthcare-Associated Infections Among Neurosurgical Patients Admitted to Intensive Care Units: A Systematic Review.",
+      "dek": "A systematic review found that structured quality improvement interventions, particularly external ventricular drain care bundles, consistently reduce healthcare-associated infections in neurosurgical and neurological ICU patients.",
       "summary": [
-        "This systematic review and meta-analysis evaluated nine studies directly comparing uVATS with conventional multiportal VATS (mVATS) in adults undergoing minimally invasive esophagectomy for esophageal cancer. Searches covered major medical databases through April 2026. Binary outcomes were pooled as odds ratios and continuous outcomes as mean differences using random-effects modeling, with heterogeneity assessed via I² statistics and evidence certainty evaluated using the GRADE framework.",
-        "uVATS was associated with lower postoperative pain on day one (mean difference −2.10 on an unspecified scale), reduced postoperative pneumonia (odds ratio 0.41), and shorter hospital stay (mean difference −2.13 days) compared to mVATS. The two approaches showed no statistically significant differences in anastomotic leakage, overall complications, recurrent laryngeal nerve injury, perioperative mortality, intraoperative blood loss, or total operative time.",
-        "The authors concluded that uVATS appears feasible and safe relative to mVATS, potentially offering advantages in postoperative analgesia, pulmonary morbidity, and recovery length while maintaining comparable perioperative safety. They emphasized that evidence remains limited by high heterogeneity and predominance of observational studies, highlighting the need for multicenter randomized trials with standardized protocols and long-term oncologic follow-up."
+        "This systematic review searched five major databases from January 2010 to May 2026 and identified 17 primary studies from 14 countries evaluating quality improvement strategies for preventing healthcare-associated infections (HAIs) in neurosurgical or neurological ICU populations. The review followed PRISMA 2020 guidelines and assessed risk of bias using appropriate tools (ROBINS-I, Cochrane RoB 2, Newcastle-Ottawa Scale) stratified by study design. Three additional systematic reviews were retained for contextual interpretation but excluded from primary synthesis.",
+        "Structured QI interventions consistently reduced device-associated infection rates across studies. EVD-specific care bundles showed the strongest evidence, with EVD-related infection rates decreasing from 14.35 to 3.21 per 1,000 catheter-days following bundle implementation; one study reported 20 consecutive infection-free months. Other device-associated infection prevention bundles demonstrated clinically meaningful reductions: VAP rates decreased from 68.2 to 47.4 per 1,000 ventilator-days, CAUTI rates from 24.9 to 13.4 per 1,000 catheter-days, and CLABSI rates reached zero in one study with sustained monitoring.",
+        "The authors concluded that structured QI interventions—particularly EVD-specific care bundles, device-associated infection prevention protocols, and staff education programs with compliance monitoring—consistently reduce HAI incidence in neurosurgical and neurological ICU settings. Although the evidence base is predominantly non-randomized observational and quasi-experimental studies, findings were directionally consistent across diverse healthcare systems and institutional contexts."
       ],
-      "why": "This comparative evidence may inform discussion among surgical teams considering approaches for minimally invasive esophagectomy. The reported reductions in postoperative pain and pneumonia could be relevant to patients' recovery profiles, though the predominantly observational evidence base limits confidence in these findings. Long-term oncologic outcomes—not addressed in this abstract—remain an important consideration for treatment selection.",
-      "evidence": "Design: Systematic review and meta-analysis of nine comparative studies (design type of included studies not specified in abstract, though authors note predominance of observational work). Sample size: Not reported for meta-analysis. Major limitations: High heterogeneity noted (I² up to 99.3% for pain outcome), predominantly observational rather than randomized studies included, and lack of standardized measurement scales (pain scale not specified). Certainty of evidence evaluated using GRADE framework, though specific certainty ratings not provided in abstract. Long-term oncologic outcomes not addressed.",
-      "source": "https://pubmed.ncbi.nlm.nih.gov/42878946/",
+      "why": "Neurosurgical ICU patients face elevated infection risk due to frequent invasive device use (external ventricular drains, central venous catheters, urinary catheters, mechanical ventilation) combined with impaired neurological status. This review synthesizes fragmented evidence on QI strategies in this vulnerable population and may inform institutional efforts to design and implement infection prevention protocols tailored to neurocritical care. The consistent reductions observed across different healthcare settings and countries suggest potential generalizability of evidence-based bundle approaches.",
+      "evidence": "The primary evidence synthesis included 17 randomized controlled trials, quasi-experimental studies, and observational cohort studies. Three systematic reviews were retained for contextual interpretation but excluded from primary synthesis to avoid duplication. Risk of bias was predominantly low to moderate across included primary studies. Sample sizes of individual studies are not reported in this abstract. Major limitations include the predominantly non-randomized nature of the evidence base, and the abstract does not specify whether meta-analysis was performed or report statistical measures of heterogeneity, confidence intervals, or p-values for the reported infection rate reductions.",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/42922243/",
       "date": "Recently indexed in PubMed",
       "featured": false,
-      "journal": "Journal of gastrointestinal cancer",
-      "pmid": "42878946",
-      "doi": "10.1007/s12029-026-01615-7"
+      "journal": "La Clinica terapeutica",
+      "pmid": "42922243",
+      "doi": "10.7417/CT.2026.2174"
     },
     {
-      "id": "2264e38c84fc7f04",
+      "id": "e9f3c5d052a2e90f",
       "category": "Hospital Medicine",
-      "tag": "MATHEMATICAL EPIDEMIOLOGY; HEALTH EQUITY; RESPIRATORY INFECTIOUS DISEASE",
+      "tag": "ALBUMINURIA MYOCARDIAL DYSFUNCTION DIABETES",
       "readTime": 3,
-      "title": "Ethnic inequities in mathematical models for respiratory infectious disease: A systematic review.",
-      "dek": "A systematic review found that only 28 infectious respiratory disease models reported results by ethnic group, revealing that mathematical epidemiological models rarely incorporate ethnic inequities despite their public health importance.",
+      "title": "Albuminuria as a Clinical Marker of Subclinical Myocardial Dysfunction in Diabetes: A Systematic Review and Meta-analysis.",
+      "dek": "In diabetic patients, urinary albumin excretion is associated with greater subclinical heart muscle dysfunction on echocardiography despite normal ejection fraction.",
       "summary": [
-        "This systematic review identified and categorized mathematical models of respiratory infectious disease transmission that stratified results by ethnic group. The researchers surveyed different modeling approaches used to represent ethnicity-related outcomes in disease transmission. The included studies employed three main frameworks: compartmental models (11 studies), individual-based models (12 studies), and metapopulation models (5 studies). Ethnic heterogeneities were represented either directly through ethnic group demographics, ethnicity-specific interaction patterns, and disease parameters, or indirectly through spatial differences in contact patterns or transmission.",
-        "The review found that consideration of ethnicity in mathematical infectious disease models is relatively new, with only three studies published before 2020. The authors note that the 28 included studies represent a small fraction of the overall volume of infectious disease modeling literature, suggesting that ethnicity-stratified reporting is uncommon despite documented ethnic inequities highlighted by the COVID-19 pandemic.",
-        "The authors conclude that incorporating ethnicity into mathematical models of disease transmission has potential to generate improved evidence for equitable public health responses and to reduce epidemic burden and inequities across ethnic groups. However, they indicate this field remains in early stages of development."
+        "This systematic review and meta-analysis examined whether albuminuria (protein in urine) correlates with subclinical myocardial dysfunction in adults with diabetes. Researchers searched four electronic databases through March 2026 for observational studies comparing diabetic patients with and without albuminuria. Eighteen reports from 17 independent cohorts were identified; eight contributed data to quantitative pooling. The Newcastle-Ottawa Scale assessed study quality, and random-effects models combined results across echocardiographic measures.",
+        "Patients with diabetes and albuminuria had significantly lower global longitudinal strain (GLS) compared to those with normoalbuminuria (mean difference −1.38 percentage points; 95% CI −2.13 to −0.63; P < 0.001). Diastolic dysfunction markers (E/e') were also higher in the albuminuric group (mean difference 1.21; 95% CI 0.18–2.24; P = 0.021). Ejection fraction did not differ between groups. In multivariable analyses, albuminuria remained independently associated with impaired strain and approximately 5.5-fold higher odds of subclinical dysfunction.",
+        "The findings suggest albuminuria may serve as a clinical marker identifying diabetic patients with subclinical systolic and diastolic impairment despite preserved ejection fraction. The authors propose that urinary albumin-to-creatinine ratio measurement could help flag asymptomatic individuals for consideration of deformation imaging (strain assessment), though they note prospective validation is needed before clinical implementation."
       ],
-      "why": "This review documents a significant gap in how mathematical epidemiological models inform public health policy. Because mathematical models shape intervention planning and resource allocation decisions, their limited representation of ethnic inequities may inadvertently perpetuate disparities. Understanding how and whether models incorporate ethnicity is relevant to epidemiologists, public health planners, and policymakers considering how modeling evidence should inform equitable pandemic preparedness and response strategies.",
-      "evidence": "Systematic review design identifying 28 studies meeting inclusion criteria (exact search strategy, date range, and databases searched not specified in abstract). No randomization or control groups applicable to this review of modeling studies. The small number of included studies relative to total infectious disease modeling literature is noted as a major finding. Specific limitations of individual models and methods for assessing model quality are not detailed in the abstract. The review does not report effect sizes from individual studies.",
-      "source": "https://pubmed.ncbi.nlm.nih.gov/42876218/",
+      "why": "Subclinical myocardial dysfunction in diabetes often progresses silently before overt heart failure emerges. If albuminuria reliably predicts early cardiac dysfunction, it could inform risk stratification conversations and guide decisions about cardiac surveillance intensity in asymptomatic diabetic patients. This may be particularly relevant when nephropathy is already documented.",
+      "evidence": "Systematic review and meta-analysis of observational studies (no randomized trials noted). Sample sizes for individual cohorts not reported in the abstract. Heterogeneity was substantial for GLS (I² = 82%), suggesting variability across studies. The abstract does not specify the total number of participants across all cohorts. Major limitations include the observational design (unable to establish causation), substantial statistical heterogeneity, and the requirement for prospective validation before clinical application. Certainty of evidence was evaluated using GRADE but specific grades are not detailed in the abstract.",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/42922242/",
       "date": "Recently indexed in PubMed",
       "featured": false,
-      "journal": "Epidemiology and infection",
-      "pmid": "42876218",
-      "doi": "10.1017/S0950268826102118"
+      "journal": "La Clinica terapeutica",
+      "pmid": "42922242",
+      "doi": "10.7417/CT.2026.2173"
     },
     {
-      "id": "ced64bb6b4dde9e9",
+      "id": "1b4017834c3317a0",
       "category": "Internal Medicine Research",
-      "tag": "ANTIPSYCHOTIC ADVERSE EFFECTS; EXERCISE INTERVENTION; PSYCHOTIC DISORDERS",
+      "tag": "DIABETIC WOUND HEALING",
       "readTime": 3,
-      "title": "Exercise to enhance antipsychotic effectiveness and mitigate metabolic harm: systematic review and meta-analysis.",
-      "dek": "Supervised exercise alongside antipsychotic medication improved negative symptoms and reduced body fat in adults with psychotic disorders, though changes were modest and evidence quality varied by outcome.",
+      "title": "Berberine improves diabetic foot ulcer healing after tibial transverse osteotomy by inhibiting the PDGF-B/PDGFRβ signaling pathway.",
+      "dek": "A randomized controlled trial found that berberine injections added to tibial transverse osteotomy surgery improved diabetic foot ulcer healing rates and reduced markers of inflammation and fibroblast death.",
       "summary": [
-        "This systematic review and meta-analysis examined 28 randomized controlled trials (n=1119) published since 2000 that tested supervised exercise interventions in people receiving antipsychotics for schizophrenia or related psychotic disorders. The review followed PRISMA 2020 guidelines and assessed study quality using the Revised Cochrane risk-of-bias tool (RoB 2), pooling effects with random-effects models.",
-        "Exercise significantly improved negative symptoms (mean difference −3.078), general psychopathology (−2.178), and total PANSS score (−7.069). Positive symptoms showed no significant improvement. For metabolic outcomes, exercise reduced body weight (−1.620 kg), body fat percentage (−1.250%), and waist circumference (−1.420 cm). No significant effects emerged for systolic or diastolic blood pressure, fasting glucose, or lipid levels, with one small increase in total cholesterol.",
-        "The authors concluded that supervised exercise may be a beneficial adjunct to antipsychotic treatment, particularly for negative symptoms and body composition, though observed changes did not reach clinically meaningful thresholds. GRADE assessment rated evidence quality as moderate for negative symptoms, general psychopathology, body weight, and body fat percentage, but low to very low for other outcomes."
+        "This was a prospective, single-center, randomized, placebo-controlled trial enrolling 96 diabetic foot ulcer patients (Wagner grade 2–4) scheduled for tibial transverse osteotomy. Participants were randomly assigned 1:1 to receive either local berberine injections or saline placebo as adjuncts to surgery. All 96 participants completed the 3-month follow-up with no dropouts. An additional 20 non-randomized participants (diabetic and healthy controls) were included for exploratory cellular studies only.",
+        "The berberine group achieved a higher total effective ulcer healing rate at 3 months (87.5% vs. 68.8%). Secondary improvements favoring berberine included greater increases in Ankle-Brachial Index (mean difference 0.13), faster ulcer area reduction (mean difference 16.7%), and greater reductions in inflammatory markers hs-CRP and IL-6. Exploratory findings showed berberine was associated with reduced fibroblast apoptosis in wound tissue and lower protein expression of PDGF-B and PDGFRβ. No serious adverse events attributable to berberine were reported.",
+        "The authors propose that berberine's effects may involve downregulation of the PDGF-B/PDGFRβ signaling pathway, which the authors suggest could reduce harmful fibroblast death and support wound healing. However, the authors explicitly note these associations are correlative and require further mechanistic validation. The study design does not establish causality for the proposed pathway."
       ],
-      "why": "Antipsychotics carry well-established cardiometabolic risks including weight gain and metabolic dysregulation. This synthesis suggests exercise could address both a core symptom domain (negative symptoms) and medication-related metabolic harm, potentially supporting discussion of behavioral interventions as part of comprehensive antipsychotic management. However, modest effect sizes and heterogeneous evidence quality warrant cautious interpretation and need for larger, rigorous trials before clinical recommendations.",
-      "evidence": "Randomized controlled trials (28 studies included). Sample size n=1119 across included studies. Major limitations: moderate to very low certainty of evidence across outcomes; no significant effects on blood pressure, glucose, or lipid profile; changes in body composition and psychopathology did not reach clinically meaningful thresholds; authors note need for high-quality, adequately powered RCTs using multicomponent exercise and comprehensive metabolic assessment. Variation in exercise protocols and outcome measurement across included trials not detailed in abstract.",
-      "source": "https://pubmed.ncbi.nlm.nih.gov/42838230/",
+      "why": "Diabetic foot ulcers remain a significant clinical challenge with high morbidity. This trial raises the question of whether adjunctive berberine—a natural compound with reported anti-inflammatory properties—might enhance surgical outcomes in a subset of patients. If confirmed in larger multi-center studies, such an approach could inform discussions about multimodal wound care strategies. However, the findings are limited to this specific surgical population and setting, and clinicians should await larger, independent validation before considering implementation.",
+      "evidence": "Randomized controlled trial with 96 participants in the active arms (berberine and placebo groups, n=48 each). No trial registration number, funding source, or blinding methods are described in the abstract. Major limitations include single-center design, lack of detail on allocation concealment and blinding procedures, small sample size, short follow-up duration (3 months), and exploratory rather than pre-specified biomarker analyses. The mechanistic pathway (PDGF-B/PDGFRβ) is inferred from secondary measurements, not directly tested. Generalizability to other surgical settings and patient populations is unclear.",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/42924998/",
       "date": "Recently indexed in PubMed",
       "featured": true,
-      "journal": "Journal of affective disorders",
-      "pmid": "42838230",
-      "doi": "10.1016/j.jad.2026.122587"
+      "journal": "Pakistan journal of pharmaceutical sciences",
+      "pmid": "42924998",
+      "doi": "10.36721/PJPS/2026.40.15603.1"
     },
     {
-      "id": "2d6e77bdc5f4332c",
+      "id": "314d46a70530b329",
       "category": "Internal Medicine Research",
-      "tag": "MEDICAL EDUCATION; COMPETENCY ASSESSMENT; SYSTEMATIC REVIEW",
+      "tag": "MICROBIOTA TRANSPLANTATION",
       "readTime": 3,
-      "title": "Entrustable professional activities in medical education: strategies and results - a systematic review.",
-      "dek": "A systematic review of 478 studies found diverse strategies for developing and implementing Entrustable Professional Activities (EPAs) in medical education, but identified modest study quality and gaps in cost-effectiveness research.",
+      "title": "Gut virome remodeling after fecal microbiota transplantation is associated with virus-bacteria co-variation and metabolic response in obesity and type 2 diabetes.",
+      "dek": "Viral community changes in the gut after fecal microbiota transplantation tracked alongside bacterial shifts and showed comparable predictive accuracy for metabolic response in obesity and type 2 diabetes.",
       "summary": [
-        "This systematic review searched six electronic databases through March 2025 to characterize published evidence on strategies for developing, implementing, and assessing EPAs—a framework designed to address challenges in competence-based medical education. The review included 478 studies, predominantly from postgraduate training programs (59.6%) and conducted in the USA (51.5%).",
-        "The analysis found substantial methodological diversity in EPA implementation across studies and stakeholder groups. Approximately half the included studies (50.8%) addressed factors influencing EPA implementation, and 46.4% discussed EPA potential for improving learning and assessment practices. However, few studies examined cost-effectiveness. Quality assessment using the QATSDD tool revealed modest overall study quality.",
-        "The authors conclude that while EPA adoption is increasing across diverse medical education contexts, significant challenges remain—particularly regarding the methodological rigor of the published evidence base. The review highlights a research gap regarding cost-effectiveness and calls for higher-quality future investigations."
+        "This was a randomized controlled trial examining longitudinal fecal samples from participants with obesity and type 2 diabetes who received fecal microbiota transplantation (FMT) alone, FMT with lifestyle intervention, or sham procedure with lifestyle intervention. Researchers used specialized sequencing to characterize both viruses and bacteria in the gut microbiota.",
+        "Post-FMT virome changes distinguished LDL responders from non-responders with 84.8% accuracy, comparable to bacterial changes (81.4%). Donor-derived viral sequences were detected in 64.7% of FMT-alone recipients and 58.8% of FMT-plus-lifestyle recipients, versus 5.6% in the sham group. FMT was associated with increased viral diversity, shifts toward donor viral communities, and coordinated virus-bacteria associations. Most responsive viruses were Caudoviricetes that were predicted to infect bacteria including Roseburia, Bifidobacterium, Escherichia, Blautia, and Enterococcus.",
+        "The findings suggest that the gut virome—not just bacterial composition—represents an important ecological component linked to FMT outcomes and metabolic improvements in obesity and type 2 diabetes, though the specific mechanisms driving clinical benefit require further investigation."
       ],
-      "why": "EPAs represent an evolving approach to competence assessment in medical training. This overview of the literature may help educators, program directors, and researchers understand current implementation strategies, identify evidence-based approaches, and recognize where evidence quality needs strengthening before widespread adoption decisions.",
-      "evidence": "Systematic review of 478 observational and mixed-method studies identified through structured database searches. The abstract does not report a meta-analysis or aggregate effect sizes. Major limitations include modest quality of included studies (per QATSDD assessment), predominance of postgraduate and USA-based research (potentially limiting generalizability), and acknowledged research gaps regarding cost-effectiveness and long-term outcomes. The diversity of methodologies and contexts is noted but not quantitatively synthesized.",
-      "source": "https://pubmed.ncbi.nlm.nih.gov/42857963/",
+      "why": "Viral communities have been largely overlooked in FMT research, which has traditionally focused on bacterial engraftment. This work raises the possibility that characterizing viral-bacterial interactions alongside traditional microbiome analysis could help predict which patients will respond metabolically to FMT and potentially improve patient selection or monitoring strategies. Understanding virus-bacteria ecology may also inform future microbiota-based interventions.",
+      "evidence": {
+        "design": "Randomized controlled trial with longitudinal fecal sampling and virus-like particle-enriched metagenomic sequencing combined with bulk-DNA metagenomic sequencing.",
+        "sample_size": "FMT alone (n=17), FMT with lifestyle intervention (n=17), sham with lifestyle intervention (n=18); total sample size across trial groups reported but specific demographic details not provided in abstract.",
+        "major_limitations": "Abstract does not specify: baseline characteristics or demographic composition; timing of follow-up assessments; whether metabolic outcomes (e.g., LDL changes) were primary or secondary; full clinical criteria for 'responders' versus 'non-responders'; mechanistic confirmation of virus-bacteria associations beyond computational prediction; generalizability to other populations; trial registration number or publication date. The predictive accuracy metrics require consideration of model validation methods not detailed here."
+      },
+      "source": "https://pubmed.ncbi.nlm.nih.gov/42912803/",
       "date": "Recently indexed in PubMed",
       "featured": false,
-      "journal": "Medical education online",
-      "pmid": "42857963",
-      "doi": "10.1080/10872981.2026.2740871"
+      "journal": "Gut microbes",
+      "pmid": "42912803",
+      "doi": "10.1080/19490976.2026.2746820"
+    },
+    {
+      "id": "6b6c2550f84ac437",
+      "category": "Internal Medicine Research",
+      "tag": "SENSORY TESTING ACCURACY",
+      "readTime": 3,
+      "title": "From Bench to Bedside: Evaluating the Accuracy of Clinical Sensory Testing in Detecting Somatosensory Disorders. A Systematic Review.",
+      "dek": "A systematic review of 12 studies (N=4,911) found that clinical sensory tests show moderate to high specificity for detecting somatosensory disorders, but sensitivity varies widely and methodological heterogeneity limits their use as standalone diagnostic tools.",
+      "summary": [
+        "This systematic review searched five databases (Medline, Cochrane Library, CINAHL, EMBASE, Scopus) through August 2025 for studies evaluating clinical sensory testing (CST) accuracy in patients with somatosensory dysfunction, comparing CSTs against reference standards. Twelve studies were included covering conditions such as diabetic peripheral neuropathy, lumbar spinal stenosis, and neuropathic pain. Two independent reviewers assessed study quality using QUADAS-2 and performed narrative synthesis organized by sensory modality.",
+        "Results showed that CSTs demonstrated moderate to high specificity overall, particularly for pressure, mechanical, and vibration testing. The Semmes-Weinstein Monofilament Test reported 77%–90.7% sensitivity and 63.8%–100% specificity; tuning fork vibration tests ranged from 30%–96% sensitivity and 45%–99% specificity. Thermal testing exhibited the greatest accuracy variability (sensitivity 0.0%–97.1%; specificity 2.0%–94.4%). Composite (multimodal) testing tools yielded higher accuracy, often exceeding 87% for both sensitivity and specificity.",
+        "The authors conclude that CSTs are pragmatic for preliminary somatosensory assessment, especially when using multiple modalities together, but cannot reliably serve as standalone diagnostic tests due to wide sensitivity-specificity intervals and substantial methodological heterogeneity across studies. High or unclear risk of bias was present in the majority of included studies. The review emphasizes that protocol standardization and validation against robust reference standards are needed before CSTs can be reliably integrated into routine clinical diagnostic practice."
+      ],
+      "why": "Clinical sensory testing is widely used in patient evaluation for conditions affecting sensation (neuropathy, spinal stenosis, neuropathic pain). This review clarifies that while these tests have reasonable specificity—making them useful for ruling-in disorders in certain contexts—their variable sensitivity means they should not be used in isolation for diagnosis. The findings may inform clinical teams about the importance of multimodal testing approaches and the need for clinical correlation rather than reliance on single sensory measures. This could support more thoughtful test selection and interpretation in routine practice.",
+      "evidence": {
+        "design": "Systematic review of studies comparing clinical sensory tests to reference standards; narrative synthesis organized by sensory modality",
+        "sample_size": "12 included studies with total N=4,911 participants",
+        "conditions_evaluated": "Diabetic peripheral neuropathy, lumbar spinal stenosis, neuropathic pain, and other somatosensory disorders",
+        "major_limitations": [
+          "High or unclear risk of bias in at least one QUADAS-2 domain for the majority of included studies",
+          "Substantial methodological heterogeneity across studies limits direct comparison",
+          "Wide and overlapping sensitivity-specificity ranges across different tests and modalities",
+          "Thermal testing showed particularly high accuracy variability (0%–97.1% sensitivity), suggesting inconsistent methodology or clinical application",
+          "Full-text article not reviewed; information limited to abstract and structured data"
+        ],
+        "missing_information": "Specific risk of bias patterns, meta-analysis results (if conducted), trial registration details, publication date of this review, and confidence intervals for reported ranges"
+      },
+      "source": "https://pubmed.ncbi.nlm.nih.gov/42922104/",
+      "date": "Recently indexed in PubMed",
+      "featured": false,
+      "journal": "Musculoskeletal care",
+      "pmid": "42922104",
+      "doi": "10.1002/msc.70287"
     },
     {
       "id": "d2084adca3f35677",
       "category": "Internal Medicine Research",
-      "tag": "FOOT AND ANKLE SURGERY COMPLICATIONS",
+      "tag": "FOOT ANKLE SURGERY COMPLICATIONS",
       "readTime": 3,
       "title": "A Systematic Review of Complications Following Elective Foot and Ankle Surgery.",
-      "dek": "A systematic review of recent studies found that complications after elective foot and ankle surgery occur frequently across multiple procedure types, with infection, wound problems, and nonunion being most common.",
+      "dek": "A systematic review of nine studies found that complications after elective foot and ankle surgery occur at variable rates, with infection, wound problems, nonunion, and nerve injury among the most common, and diabetes, obesity, smoking, and vascular disease as consistent risk factors.",
       "summary": [
-        "This systematic review searched three databases (PubMed, Scopus, CINAHL) for studies published between January 2020 and June 2025 reporting postoperative complications in adults undergoing elective foot and ankle surgery. Nine studies involving 20,455 participants were included and analyzed narratively due to heterogeneity in study designs and procedures.",
-        "Complication rates varied substantially across studies: infection (0.3%–12.5%), wound healing problems (0.5%–10.0%), nonunion (0.8%–18.7%), hardware removal (3.8%–15.5%), nerve injury (0.2%–10.0%), pain or stiffness (0.8%–18.7%), and systemic complications (3.6%–7.4%). Risk factors consistently identified across multiple procedures included diabetes, obesity, smoking, and peripheral vascular disease. Higher complication rates were associated with revision surgery, prolonged operative time, and multisegment reconstruction.",
-        "The authors conclude that postoperative complications are common and arise from multiple factors with consistent patterns across different foot and ankle procedures. They suggest these findings support better risk stratification before surgery, targeted preoperative optimization strategies, and structured postoperative care protocols."
+        "This systematic review searched PubMed, Scopus, and CINAHL for studies published between January 2020 and June 2025 reporting postoperative complications in adults undergoing elective foot and ankle surgery. Nine studies encompassing 20,455 patients were included. Data on complication types, incidence rates, and risk factors were extracted and synthesized narratively because study heterogeneity precluded meta-analysis.",
+        "Complication incidence varied substantially across studies: infection ranged from 0.3% to 12.5%; wound healing problems from 0.5% to 10.0%; nonunion from 0.8% to 18.7%; hardware removal from 3.8% to 15.5%; nerve injury from 0.2% to 10.0%; pain or stiffness from 0.8% to 18.7%; and systemic complications from 3.6% to 7.4%. Diabetes, obesity, smoking, and peripheral vascular disease were identified as consistent risk factors across procedures. Higher complication rates were associated with revision surgery, prolonged operative time, and multisegment reconstruction.",
+        "The authors conclude that postoperative complications following elective foot and ankle surgery are common and multifactorial, with identifiable risk patterns that are consistent across different procedures. They suggest this evidence supports improved preoperative risk stratification, targeted preoperative optimization strategies, and structured postoperative care protocols."
       ],
-      "why": "This review synthesizes complication data across multiple foot and ankle procedures rather than examining single procedures in isolation, providing a broader perspective on postoperative risks. Identifying modifiable risk factors (smoking, obesity) and procedure-related factors (operative time, revision status) may help clinicians and patients engage in informed discussions about surgery timing, preoperative preparation, and expected recovery trajectories. The wide ranges in complication rates highlight the importance of considering patient-specific and procedure-specific contexts.",
-      "evidence": "Systematic review of observational and/or comparative studies published 2020–2025. Sample size: 20,455 total participants across nine included studies. Major limitations include substantial heterogeneity in study designs, procedures, outcome definitions, and follow-up periods, which necessitated narrative rather than quantitative synthesis. The abstract does not report whether individual studies were randomized or observational, nor does it indicate the quality assessment methodology or risk of bias evaluation. Publication year restriction (2020–2025) may exclude relevant earlier literature. Specific denominators for individual complication rates are not provided.",
+      "why": "This review provides a broad overview of complication profiles across elective foot and ankle procedures rather than single-procedure analyses, potentially helping clinicians appreciate the range and frequency of postoperative problems. Identification of modifiable risk factors (smoking, obesity) and patient characteristics (diabetes, vascular disease) may inform preoperative counseling and candidate selection. The finding that operative factors such as prolonged surgery time and revision status associate with higher complication rates could prompt discussion of procedural planning and complexity, though the review does not establish causation.",
+      "evidence": "Systematic review synthesizing nine observational studies totaling 20,455 patients. No randomized trials are indicated. Major limitations include substantial heterogeneity in study designs, populations, outcome definitions, and measurement periods, which precluded quantitative synthesis. The abstract does not specify individual study quality assessment methods, follow-up duration, or consistency of complication definitions across studies. Variation in reported complication rates is wide, suggesting differences in case mix, surgical technique, or ascertainment. The review identifies associations with risk factors but cannot establish causality.",
       "source": "https://pubmed.ncbi.nlm.nih.gov/42894440/",
       "date": "Recently indexed in PubMed",
       "featured": false,
@@ -182,17 +214,29 @@
     {
       "id": "acbfcfde6eac1367",
       "category": "Internal Medicine Research",
-      "tag": "HYPERTENSION SUPPLEMENT TRIAL",
+      "tag": "HYPERTENSION, CARDIOVASCULAR PREVENTION, NATURAL PRODUCTS",
       "readTime": 3,
       "title": "Chios Mastic in Well-Controlled Hypertension: Findings From the HYPER-MASTIC Randomized Controlled Trial.",
-      "dek": "A randomized trial found that Chios mastic supplementation did not reduce blood pressure in adults whose hypertension was already well controlled, though transcriptomic changes suggested potential vascular effects in higher-risk subgroups.",
+      "dek": "A 3-month randomized trial found that Chios mastic supplementation did not reduce blood pressure in adults with well-controlled hypertension, though transcriptomic changes suggest potential vascular effects in higher-risk subgroups.",
       "summary": [
-        "The HYPER-MASTIC trial enrolled 106 adults with stable, well-controlled hypertension and variable cardiovascular risk. Participants were randomly assigned to receive low-dose Chios mastic (1500 mg/day), high-dose Chios mastic (2800 mg/day), or placebo for 3 months. The study was double-blind and placebo-controlled. Primary outcomes were changes in 24-hour ambulatory systolic and diastolic blood pressure; secondary outcomes included vascular function, oxidative stress markers, proteasome activity, and transcriptomic profiling in a high-risk subgroup.",
-        "Chios mastic was well tolerated with high adherence, confirmed by dose-dependent increases in plasma biomarkers. No significant between-group differences were observed in 24-hour systolic or diastolic blood pressure. Oxidative stress markers and proteasome activity did not change significantly across groups. However, in high-risk participants, mastic supplementation induced distinct transcriptomic changes in pathways related to endothelial junction organization and vascular integrity.",
-        "The authors concluded that Chios mastic supplementation did not lower blood pressure over 3 months in adults with well-controlled hypertension and low baseline cardiovascular risk, likely due to a ceiling effect. The transcriptomic findings suggest potentially biologically meaningful vascular effects in individuals with higher residual cardiovascular risk, warranting investigation in higher-risk populations."
+        "This double-blind, randomized, placebo-controlled trial enrolled 106 adults with stable, well-controlled hypertension and variable cardiovascular risk. Participants received low-dose Chios mastic (1500 mg/day), high-dose Chios mastic (2800 mg/day), or placebo for 3 months. The primary outcomes were changes in 24-hour ambulatory systolic and diastolic blood pressure; secondary outcomes included vascular function markers, oxidative stress, proteasome activity, and transcriptomic profiling in a high-risk subgroup.",
+        "No significant between-group differences were observed in 24-hour systolic or diastolic blood pressure. Oxidative stress markers and proteasome activity showed no changes across groups. However, in participants identified as higher-risk, mastic supplementation induced distinct transcriptomic changes, particularly in pathways related to endothelial junction organization and vascular integrity. The intervention was well tolerated with high adherence, confirmed by dose-dependent increases in mastic-derived plasma compounds.",
+        "The authors interpret the null blood pressure findings as reflecting a ceiling effect—participants already had well-controlled hypertension and low baseline cardiovascular risk, potentially limiting room for further reduction. The transcriptomic signals in higher-risk individuals suggest biologically meaningful vascular effects may exist but were not captured by the study's primary hemodynamic measures or other inflammatory and oxidative stress markers."
       ],
-      "why": "This trial addresses whether supplementation with a phytochemical having established antioxidant and vascular properties could address residual cardiovascular risk in patients whose blood pressure is already at goal. The null finding on blood pressure does not exclude benefit; the transcriptomic signal in higher-risk individuals raises the possibility that Chios mastic effects may be most relevant in populations with greater inflammatory or endothelial burden. Clinicians may find it useful to understand that adequate blood pressure control alone may not resolve underlying vascular dysfunction, and that future trials in higher-risk populations may better characterize whether mastic has a targeted role.",
-      "evidence": "Design: Double-blind, randomized, placebo-controlled trial. Sample size: 106 adults. Major limitations include the 3-month duration, which may be insufficient to detect delayed vascular or molecular changes; selection of a population with well-controlled hypertension and relatively low baseline cardiovascular risk, which may obscure effects in higher-risk groups; lack of reported p-values and confidence intervals in the abstract; and unclear definition of the 'predefined high-risk subgroup' for transcriptomic analysis. The abstract does not provide trial registration information, statistical significance thresholds, or adjustment for multiple comparisons. The full-text paper was not reviewed.",
+      "why": "This trial addresses whether natural compounds can provide incremental cardiovascular benefit in the common clinical scenario of patients on antihypertensive therapy with controlled blood pressure but residual vascular risk. The negative primary result in low-risk, well-controlled patients suggests Chios mastic is unlikely to offer additional blood pressure-lowering benefit in this population. However, the distinct transcriptomic findings in higher-risk participants raise questions about whether such supplementation might merit investigation in less-controlled or higher-risk populations, and whether gene expression changes correlate with clinically meaningful outcomes.",
+      "evidence": {
+        "design": "Double-blind, randomized, placebo-controlled trial",
+        "sample_size": 106,
+        "duration": "3 months",
+        "major_limitations": [
+          "No significant blood pressure reduction observed; unclear whether null finding reflects true inefficacy or insufficient study power and duration",
+          "Oxidative stress and proteasome activity markers did not change, limiting understanding of proposed mechanisms",
+          "Transcriptomic findings are from a predefined high-risk subgroup only; sample size for this analysis not specified",
+          "No functional validation that transcriptomic changes translate to clinical benefit",
+          "Follow-up duration (3 months) may be insufficient to detect long-term vascular effects",
+          "Full publication date and trial registration number not provided in abstract"
+        ]
+      },
       "source": "https://pubmed.ncbi.nlm.nih.gov/42885189/",
       "date": "Recently indexed in PubMed",
       "featured": false,
@@ -201,261 +245,244 @@
       "doi": "10.1002/prp2.70322"
     },
     {
-      "id": "24ce88b3496354e9",
-      "category": "Internal Medicine Research",
-      "tag": "LABOR INDUCTION / OBESITY / MATERNAL",
-      "readTime": 3,
-      "title": "Characterizing vaginal misoprostol induction in individuals with and without severe obesity.",
-      "dek": "Severe obesity (BMI ≥40 kg/m²) is associated with prolonged labor induction, increased medication requirements, and lower vaginal delivery rates compared to lower BMI in individuals induced with vaginal misoprostol at term.",
-      "summary": [
-        "This secondary analysis examined 1,322 individuals who received vaginal misoprostol for labor induction at term (≥37 weeks gestation with cervical dilation ≤2 cm), stratified by BMI: 1,058 (80%) with BMI <40 kg/m² and 264 (20%) with BMI ≥40 kg/m². Misoprostol was administered in 25 µg doses every three hours for up to five doses, followed by standardized oxytocin. Individuals with severe obesity more frequently started induction with a closed cervix.",
-        "After adjustment for clustering, initial cervical dilation, hypertension, and diabetes, inductions in the severe obesity group showed longer total duration (mean difference 3.5 hours), longer first stage of labor (mean difference 2.2 hours), and longer oxytocin duration (mean difference 2.5 hours). Those with BMI ≥40 kg/m² had lower odds of vaginal delivery (aOR 0.6) and required more misoprostol doses.",
-        "The authors conclude that severe obesity is associated with longer time to delivery and increased medication requirements, suggesting that alternative induction protocols warrant consideration in this population, though they note this must be balanced against increased comorbidities and obstetric morbidity."
-      ],
-      "why": "This characterization of induction outcomes by BMI category may inform counseling about expected labor progression and delivery mode likelihood in individuals with severe obesity. Understanding that prolonged induction and lower vaginal delivery rates occur in this group—independent of initial cervical conditions and comorbidities—could guide peripartum planning and resource allocation, and may prompt discussion of individualized induction protocols or anesthetic/operative readiness.",
-      "evidence": "Secondary analysis of the vaginal misoprostol arm from a cluster randomized controlled trial. Sample size: 1,322 individuals (264 with BMI ≥40 kg/m²). Design accounts for clustering and adjusted for multiple covariates using generalized estimating equations. Major limitations: secondary analysis design; inability to determine causality; no information on trial registration, full inclusion/exclusion criteria, or whether findings apply to all populations; missing detail on specific alternative induction protocols considered; no discussion of statistical power for subgroup comparisons.",
-      "source": "https://pubmed.ncbi.nlm.nih.gov/42875396/",
-      "date": "Recently indexed in PubMed",
-      "featured": false,
-      "journal": "The journal of maternal-fetal & neonatal medicine : the official journal of the European Association of Perinatal Medicine, the Federation of Asia and Oceania Perinatal Societies, the International Society of Perinatal Obstetricians",
-      "pmid": "42875396",
-      "doi": "10.1080/14767058.2026.2744004"
-    },
-    {
-      "id": "c1ffbcd5318aaa3e",
+      "id": "3be8c60051aae9b7",
       "category": "AI & Technology",
-      "tag": "AI DEVELOPMENT",
+      "tag": "AI FINANCE INVESTMENT",
       "readTime": 3,
-      "title": "Anthropic, Google and OpenAI prepare new AI models, The Information reports - Investing.com",
-      "dek": "Three major AI companies are reportedly developing next-generation artificial intelligence models, according to reporting by The Information.",
+      "title": "On Main Street, Goldman Sachs makes a big bet on AI - NBC News",
+      "dek": "Goldman Sachs is making a significant investment in artificial intelligence, signaling major financial sector interest in AI technology.",
       "summary": [
-        "Anthropic, Google, and OpenAI are each preparing new AI models, as reported by technology news outlet The Information. This follows a period of rapid advancement in large language models and generative AI systems from these organizations.",
-        "The report indicates continued competition and investment in AI model development across these three leading companies, though specific details about the models' capabilities, timelines, or intended applications are not provided in the available headline and source information.",
-        "This development reflects the ongoing race to advance AI technology, with major tech companies allocating significant resources to research and model development."
+        "Goldman Sachs, one of the world's largest investment banks, is placing a substantial bet on artificial intelligence. This move reflects growing confidence from major financial institutions in AI's potential applications and commercial viability.",
+        "The investment aligns with broader trends across Wall Street and global financial markets, where firms are increasingly integrating AI into trading, risk management, and client services.",
+        "This news demonstrates that major institutional investors view AI as a significant area for capital allocation and business development, though specific details about the investment's scope and focus cannot be verified from the headline alone."
       ],
-      "why": "Competition in AI model development affects technology industry direction, potential applications across sectors, and regulatory considerations around advanced AI systems. Public awareness of these efforts is relevant to understanding the trajectory of AI technology adoption.",
-      "evidence": "This is a reported claim from The Information, a technology news publication. The full article content is not available for verification. No independent confirmation, technical specifications, timelines, or official company statements are included in the available information.",
-      "source": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOWxHd01oWEhrY0FieG1ZUGJhdDhSQWYtSzA1UjBBaDlpMnRJYlczY2dKNXJfQXVoZExYVlhZY3Q0ZlBZTDJEajdrN2NYcmNtSzlMdVc5RHBQSmVLRkFEYU9XUTdYenJLaU0ySHJFQ21WNUEwSHB3SFZCYXotM3QtaXk4dzNOamFSSUFFMnZnR3VzNlk5YUd3cVpkQjZpZWpuQWY0bWVQc2pPa19LLVJzRDJuSzlIVVBNM05QejgwdzlpaFU1QWo4Zmpn?oc=5",
-      "date": "Mon, 19 Oct 2026 14:12:46",
+      "why": "Major financial institutions' AI investments influence market trends, signal confidence in AI adoption, and often precede broader commercial deployment. This can impact technology valuations and corporate strategy across sectors.",
+      "evidence": "Limited - Based on headline and publication only. Full article content unavailable for review. Claims about Goldman Sachs' specific investment strategy, amount, or AI applications cannot be verified without accessing the complete story.",
+      "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOERqdTZkVDBjdlRfQ0JFV3NpLURsZmtoUGhLMnJtck9PNTgteG9CclotdTMtYm9tYnJORU9HR01uWmFIU3EzS2xEZmJTcDRwQ3Z0RjVXUGlVS1hoZzBsY3R5TFdteGliUF9leFA2d0I5NElnNlQzNkdOekdzcll1cnhGM0JBMC1JZklkN2lqazBROG1lcm40aGtPX0otcmIzTnc?oc=5",
+      "date": "Thu, 22 Oct 2026 20:43:15",
       "featured": true
     },
     {
-      "id": "ba43bc67997d1e9a",
+      "id": "4eb4e1bdbf749a2e",
       "category": "AI & Technology",
-      "tag": "AI & TECHNOLOGY",
+      "tag": "AI PARTNERSHIPS",
       "readTime": 3,
-      "title": "The AI race is back on - The Verge",
-      "dek": "Competition in artificial intelligence development is intensifying as major tech companies pursue advances in AI capabilities.",
+      "title": "OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft - CNBC",
+      "dek": "OpenAI is expanding its cloud partnerships by making its AI models available through Google Cloud, reducing its exclusive reliance on Microsoft's infrastructure.",
       "summary": [
-        "According to The Verge, the competitive landscape in AI development is accelerating, with multiple companies investing heavily in new models and technologies. This follows a period where the pace of innovation had appeared to slow relative to earlier hype cycles.",
-        "The article suggests renewed momentum in the AI sector, though specific details about which companies, technologies, or breakthroughs are driving this trend cannot be verified from the headline and metadata alone.",
-        "This development reflects the ongoing commercial and technical competition in the artificial intelligence space, where organizations compete for capabilities, market position, and technological advantage."
+        "OpenAI has announced plans to bring its AI models to Google Cloud Platform, marking a significant shift in the company's cloud strategy. This expansion allows customers to access OpenAI's models through Google's infrastructure, in addition to the existing Microsoft Azure partnership.",
+        "The move reflects OpenAI's strategy to broaden its distribution channels and reduce dependency on a single cloud provider. Google Cloud gains access to OpenAI's popular models, potentially attracting new customers to its platform.",
+        "This development occurs within the competitive landscape of AI deployment, where multiple cloud providers seek partnerships with leading AI companies to enhance their service offerings."
       ],
-      "why": "AI development pace and competition direction influence technology policy, investment decisions, and the trajectory of AI capabilities entering widespread use. Understanding competitive dynamics helps contextualize technological progress claims.",
-      "evidence": "Evidence quality is limited: only headline and publication metadata are available. The full article content was not reviewed. Claims about acceleration or specific competitive developments cannot be verified from this briefing source alone. The Verge is an established technology publication, but verification would require reading the complete article.",
-      "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTTlwczV1a1J1TXN3MkRxVm1kZHZmTmZ5OENrR0M2WFEtbUFFNjRPMWRLVTVOZWc1Skd2bGZDYS1WVWJyTlFkWndqbmd5dTZjb191T1pDR001dVdKZ2VOWDlKS3AzNXNsU0VySVpESVlPZ1RvQkFHN0FOR01uMVFhV2JKN3l5VU1nYmc?oc=5",
-      "date": "Wed, 14 Oct 2026 19:06:03",
+      "why": "This matters because it affects AI model accessibility, cloud market competition, and OpenAI's business independence. It signals OpenAI's intent to work with multiple major cloud providers and may influence enterprise customers' cloud choices.",
+      "evidence": "Based on the headline and publication source only. The full article content was not reviewed. Claims about specific business terms, timelines, or implementation details cannot be verified from this briefing.",
+      "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNXhvUlpRaDlhdjFIa3BDYy12MFBILU1vZFNfa0ZKUlV6cERUd1lVUWtEbEFVcTAxRlVuaGJFTENlYUtyOFloTlhRZ1QwTW5zOUd2UXFwT1pjS0FhX2NfT0R4MUJpNVZ6Z3ItZ05WRklZN2tSX2NUdkhsckYyM1FHbjM4Mi1WeTNvdUI5MkR0LXphNWs5UHFUZGxENXE4NWliZkdQeXR5eW7SAa4BQVVfeXFMTUhXVUF3ZHRsOGJpRnlGR2dKT2FWdk5oaW5zTzVJN1E5aEt5eGM4Wmtyei00T2F4dFBMSm5CWGR1WjYzU3BpVWpKUjdNZkltS3VzdkYyMDNMZWtCbnQwZHUtMVV5dTdmZF9tcVpnVW52aGlqNGJzNlJvaDJyZXRMR19QN293Tzk2NnV0NXVwUmxBUUx6TTA2aDMzaUlTc20zWFg2UkhfdnhCUnpnMm9R?oc=5",
+      "date": "Wed, 21 Oct 2026 12:00:02",
       "featured": false
     },
     {
-      "id": "d4bb48997a3fdfd5",
+      "id": "b6eaeb6f30193b2c",
       "category": "AI & Technology",
-      "tag": "AI REGULATION",
+      "tag": "AI FINANCE",
       "readTime": 3,
-      "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us - WIRED",
-      "dek": "Major AI companies OpenAI and Anthropic are calling on the British government to establish regulatory frameworks for artificial intelligence development.",
+      "title": "Anthropic files for potentially the biggest IPO ever as CEO warns of AI's existential risk to humanity - PBS",
+      "dek": "Anthropic, an AI safety company, has filed for what could be the largest initial public offering on record while its CEO continues to emphasize concerns about artificial intelligence posing existential risks to humanity.",
       "summary": [
-        "OpenAI and Anthropic have expressed support for government regulation of AI systems in meetings with British lawmakers. Both companies have indicated they welcome oversight measures rather than resist them, marking a significant position from leading AI developers.",
-        "The companies' stance suggests they believe structured regulation could benefit the industry by establishing clear standards and accountability measures. This contrasts with some other tech sectors where companies typically oppose regulatory frameworks.",
-        "The timing reflects growing international attention to AI governance, with various governments developing regulatory approaches. The UK has been developing its own AI policy framework separate from stricter EU regulations."
+        "Anthropic, the AI company founded by former OpenAI executives, has filed for an IPO that sources report could be the largest in history. The filing comes as the company has raised substantial venture funding and positioned itself as a leader in developing AI systems with safety considerations built in.",
+        "CEO Dario Amodei has maintained a public stance emphasizing that advanced artificial intelligence poses potential existential risks to humanity. This positioning reflects the company's stated focus on AI safety research alongside its commercial AI product development.",
+        "The IPO announcement represents a significant moment for the AI industry, signaling investor appetite for AI companies even as questions about AI safety, regulation, and societal impact remain subjects of ongoing debate among researchers, policymakers, and the public."
       ],
-      "why": "AI regulation is a critical emerging policy question affecting innovation, safety, and consumer protection. The positions of leading AI companies influence policy discussions and can signal industry expectations about future compliance requirements.",
-      "evidence": "This briefing is based on a news headline and feed description only. The full article content was not accessed, so specific claims made by the companies, details of their regulatory proposals, and lawmakers' responses cannot be verified. Direct quotes and specific policy recommendations are unavailable from the source material provided.",
-      "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaDJMY1hCMEJlRTJiNnNuY2xsV1FVN0dtME52djVacVF2R2pTRnhVNlpXeno5X05Fa2lENlNzemR4dnlYRkU2Z1RqVDNlMjBZbkFFcEc0R3pETmY0TDVuRFpuLThITkt5aDNnbndwOW05Y0dlQUJWWDFmUUhXa2tYUzVKblFBdDF2OUNaTA?oc=5",
-      "date": "Tue, 13 Oct 2026 19:35:00",
-      "featured": false
-    },
-    {
-      "id": "4d8b85cfff295739",
-      "category": "AI & Technology",
-      "tag": "AI SECURITY",
-      "readTime": 3,
-      "title": "Anthropic says new safeguards sharply reduce AI distillation attacks - Reuters",
-      "dek": "Anthropic reports developing new security measures that significantly reduce the risk of AI distillation attacks, where malicious actors attempt to extract proprietary model information.",
-      "summary": [
-        "Anthropic, an AI safety company, has announced new safeguards designed to protect their AI models from distillation attacks. These attacks occur when someone queries an AI system repeatedly to extract and copy its underlying capabilities into a smaller, unauthorized model.",
-        "According to the company's claims reported by Reuters, the new safeguards substantially lower the success rate of such attacks. The specific technical details and extent of protection were not independently verified in this briefing.",
-        "This development addresses growing concerns in the AI industry about intellectual property protection and unauthorized model replication, which could affect how companies secure their AI investments."
-      ],
-      "why": "AI model distillation poses a significant commercial and security challenge for AI companies. Protecting against unauthorized model extraction helps safeguard proprietary systems and maintains competitive advantages. This also relates to broader AI security and safety discussions.",
-      "evidence": "Evidence quality: Limited. This briefing relies on Anthropic's reported claims via Reuters. Independent verification of the safeguards' effectiveness, technical specifications, or real-world testing results was not available for this summary. The actual article text was not accessible, limiting detailed fact-checking.",
-      "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVlZuUXZob1BWeEV1WEZOdWIwRW9ucW92UFVueWd3clAxbHNSUHh1VXFuX1dTalVxLWgyX3Y5ZmZhYzIxc1BNRGN4Y3JUOXBIQjhZUUlDMlNyZ2Q1WW4zOThMbF85R1NGZ0RrWnRLVWMyNjdFWmswb2hrMmNlQWttOUZVOGFjUnRaUzduMDVKMnI1ODlUaWJuTkZ1M3U5N3haQWIzMzNyNzNNUUt1eW5ZVk5EV1pPczA?oc=5",
-      "date": "Tue, 13 Oct 2026 01:07:00",
-      "featured": false
-    },
-    {
-      "id": "fc28c92cac0d8c6f",
-      "category": "AI & Technology",
-      "tag": "AI REGULATION",
-      "readTime": 3,
-      "title": "FTC Subpoenas OpenAI and Anthropic Over AI Safety Concerns - Gizmodo",
-      "dek": "The Federal Trade Commission has issued subpoenas to OpenAI and Anthropic as part of an investigation into AI safety practices and potential risks.",
-      "summary": [
-        "The FTC has subpoenaed OpenAI and Anthropic, two major artificial intelligence companies, to investigate their approaches to AI safety and security. This action suggests regulatory scrutiny of how these organizations are managing potential risks associated with their AI systems.",
-        "The subpoenas appear to focus on safety concerns related to AI development and deployment. The specific safety issues under investigation have not been fully detailed in available reporting.",
-        "This development reflects growing government attention to AI regulation and oversight, particularly regarding how companies test, monitor, and mitigate risks in their AI products before and after release."
-      ],
-      "why": "AI safety has become a priority for regulators as large language models and AI systems become more widely deployed. Understanding how companies approach safety testing and risk management is important for public accountability and potential future regulatory frameworks.",
+      "why": "This matters because it reflects both the commercial momentum and investment confidence in the AI sector, while also highlighting the tension between rapid commercialization and concerns about AI safety that company leadership continues to emphasize publicly.",
       "evidence": {
-        "quality": "Limited - based on brief news reporting",
-        "limitation": "The full scope of the FTC investigation, specific safety concerns being examined, and details about the subpoena requests cannot be verified from the headline and brief description alone. The original article would contain more specifics."
+        "quality": "limited",
+        "details": "This briefing is based on headline and metadata only. The full article text was not accessed, so specific IPO valuation figures, filing details, direct quotations, and supporting evidence cannot be verified from the source material itself."
       },
-      "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLWNXalRVZ3lfNDBVY3dRaGRQVUVPWDNXTk1RLVNMVzJOMWZqdHNyaDJnSkphdlVsNnlaR2JlWmVSNHlkTXJXUDJEbUdaSVlJNndtMmtJZUQxejhETVZ3SGJRWWZtVzFOTnBvcmdkSktteG9xWDc3UDZKQTRGbGdBdmY0Y0YzNkRaVmxxa3NuVkRZZ2c?oc=5",
-      "date": "Thu, 15 Oct 2026 17:25:12",
+      "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZVJ3UjVBc3k5bGw5NW91U01kWGFyd05kT1BRb3hIODdqLTRUdExySGhIQWdUdkxfU2Zmc0V1cVF4LWNFVjRqTU03VVM3cmozcTkxTXozX0ZuUWcxRlNIc3lVNW1tWDJTcnVLTXl5aDNyangxYmZFSGtIemFIbUg1Q2h2UmZfOGtISkxPM2hwc2lPek93cXhiTjlMZFk4S2F1Z0U3MVhqZkJFUDA5MkJkNVhUdWswbHJCWUE2MHktNlRMSUpIbFVtR1lIbUZ5LUFHQVE4?oc=5",
+      "date": "Mon, 26 Oct 2026 16:40:54",
       "featured": false
     },
     {
-      "id": "4102e2ca7f76fe3d",
-      "category": "Gaming",
-      "tag": "EDUCATION & GAMING CAREERS",
+      "id": "49b46011086aca69",
+      "category": "AI & Technology",
+      "tag": "AI INVESTMENT OPINION",
       "readTime": 3,
-      "title": "Bloomfield Students Get an Inside Look at the World of Game Development - Montclair State University",
-      "dek": "High school students from Bloomfield visited Montclair State University to learn about video game development careers and industry practices.",
+      "title": "Not Anthropic. Not OpenAI. This Is the Artificial Intelligence (AI) Stock I'd Buy Before the Next Mega-IPO. - The Motley Fool",
+      "dek": "A Motley Fool article recommends an AI stock outside the major players Anthropic and OpenAI as a potential investment before upcoming IPOs.",
       "summary": [
-        "Students from Bloomfield participated in an educational visit to Montclair State University focused on the video game development field. The event provided an opportunity for young people to explore potential career paths in gaming and learn about how games are created.",
-        "The visit appears to have been designed as a career exploration and educational outreach initiative, connecting secondary school students with university resources and professionals in the game development industry. Such events typically aim to introduce students to STEM and creative technology fields."
+        "This investment article from The Motley Fool argues for purchasing shares of an artificial intelligence company that is neither Anthropic nor OpenAI, positioning it as an opportunity ahead of anticipated mega-IPOs in the AI sector.",
+        "The article appears to focus on identifying lesser-known AI companies that may offer investment potential as the AI market continues to develop and more companies go public.",
+        "As an opinion piece from an investment publication, the article presents investment recommendations rather than reporting on confirmed developments or verified discoveries."
       ],
-      "why": "Educational outreach programs connecting high school students to university career pathways can inform future educational and professional choices. Game development is an increasingly significant sector combining technical skills, creativity, and business acumen.",
-      "evidence": {
-        "quality": "Low—limited details available from headline and feed description alone",
-        "limitations": "Full article content not accessed. Specific details about program structure, participating companies, educational outcomes, and number of attendees cannot be verified. Names of speakers or specific technologies demonstrated are unknown."
-      },
-      "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOTFCM2o4ZWZqaVR5Ukg0RGFRS25UbmRYLUYzeVU3c2NhaldkSnVCZ0FtX2tHU1VPNTFZR0ZjWldtN2c3MlZrS0h0RGtCOVo0SmJDYzhQUHVkcURpbnRhN3VxRGIySTNfeGNvdE1VdzhUamZfWlJBX3ItYklOSm1RY2d4aC1ReldmWE1xYkxycnRvN01DeHo1YWtzOElrX3pmYjBNY093b1JQZUdU?oc=5",
-      "date": "Wed, 14 Oct 2026 13:00:00",
-      "featured": true
+      "why": "This matters to investors tracking the AI sector and IPO market, as it suggests alternative investment theses beyond the major well-known AI companies. However, readers should recognize this as investment opinion rather than verified reporting.",
+      "evidence": "Evidence quality is limited: This is an opinion/recommendation article from an investment publication, not verified reporting. The full article content cannot be accessed from the provided source link. Specific company names, financial data, and supporting analysis cannot be verified from the headline and description alone. Readers should conduct independent research and consult financial advisors before making investment decisions.",
+      "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMVZENWdDM0ZndkV6V0FsQXF3SVNXLW01cXlOcmVoNWZaellJQUdRY0FTaUlCbC11VDZBY2c5ZVprMVdheURkV25zaGtWakVXQmZ4OWJ0Q1lQVlZUZHhsZ2pWcEtsMEtEU0dPSVp6WWNiY1hpMEtLQkRKNS11TTVMWWdMeUk1UFlKNlBsUFVWbFBCSVFLWHFmVA?oc=5",
+      "date": "Tue, 20 Oct 2026 13:00:00",
+      "featured": false
     },
     {
-      "id": "5601ea98ad6cc7f4",
+      "id": "b01a15fd4bc31a05",
+      "category": "AI & Technology",
+      "tag": "AI INVESTMENT",
+      "readTime": 3,
+      "title": "Not Anthropic. Not OpenAI. This Is the Artificial Intelligence (AI) Stock I'd Buy Before the Next Mega-IPO. - Yahoo Finance",
+      "dek": "A Yahoo Finance opinion piece recommends an AI stock investment opportunity outside the major players Anthropic and OpenAI, potentially ahead of upcoming IPOs.",
+      "summary": [
+        "This Yahoo Finance article presents an investment perspective on artificial intelligence stocks, specifically advocating for a company that is neither Anthropic nor OpenAI. The piece appears to be an opinion-based recommendation aimed at investors interested in AI sector opportunities.",
+        "The article suggests there may be value in smaller or less prominent AI companies before major initial public offerings occur. The specific stock recommendation and underlying rationale cannot be verified from the headline and metadata alone.",
+        "The piece addresses investor interest in positioning within the AI sector as it anticipates future major company IPOs in the space."
+      ],
+      "why": "AI stock valuations and IPO timing represent significant investment decisions; understanding emerging companies and positioning before major market events interests both individual and institutional investors.",
+      "evidence": "Limited to headline and publication metadata. The full article content has not been reviewed, so specific company names, financial data, and reasoning cannot be verified. This briefing describes only what the headline indicates: an opinion recommendation for an AI stock outside major known players.",
+      "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRkVNVldSN1hQakV2MGhER1pJZGQ3T3F5dlBtdGt3eXlfRDVjbkk3amFMcndEYnd3UEhCTWFINnlxUEozRDd1THlaaWNmMWVmeFMzaEtJdEFQZ3dUejg2am01czBqT1pvU0piamRiaDFjYWwyYWVLNFVFbzFTOThNQnA1Y256SWRTMXdhdEpJOXpOUzJaOXpkTWRUeFlidFJD?oc=5",
+      "date": "Tue, 20 Oct 2026 12:20:00",
+      "featured": false
+    },
+    {
+      "id": "8a9e2c4b8a6ad202",
       "category": "Gaming",
       "tag": "GAMING INDUSTRY",
       "readTime": 3,
-      "title": "Epic Games reportedly pivoting to \"AI first\" game development model - Ars Technica",
-      "dek": "Epic Games is reportedly shifting its game development approach to prioritize artificial intelligence in its creation process.",
+      "title": "'I'm forever grateful to BioWare': 16 game developers share the moment a BioWare game inspired them to join the industry - PC Gamer",
+      "dek": "Sixteen game developers discuss how BioWare games inspired their entry into the video game industry.",
       "summary": [
-        "According to Ars Technica, Epic Games is moving toward an 'AI first' model for game development. This represents a strategic pivot in how the company approaches creating games, though specific details about implementation remain limited in available reporting.",
-        "The report indicates this shift reflects broader industry trends as game developers explore AI integration for various development tasks. However, full details about which specific aspects of development will be prioritized and how this will affect existing projects have not been independently verified.",
-        "This reported move comes as the gaming industry continues experimenting with AI tools for asset creation, procedural generation, and other development functions."
+        "PC Gamer published a feature article in which 16 game developers share personal stories about specific moments when BioWare games motivated them to pursue careers in game development. The article focuses on inspirational experiences rather than technical analysis or industry critique.",
+        "BioWare, known for franchises including Mass Effect and Dragon Age, is presented as a significant influence on developer career trajectories. The article collects testimonials from industry professionals reflecting on their formative experiences with the studio's work.",
+        "This type of retrospective highlights the cultural impact of gaming studios and how individual games can shape career decisions within the entertainment industry. The full details of specific games mentioned and developer stories cannot be verified from the headline and metadata alone."
       ],
-      "why": "Understanding major studios' development strategies matters for industry trends, employment implications, and the future direction of game production techniques.",
-      "evidence": "Single-source report from Ars Technica with no independently verified details. The headline presents this as reported information ('reportedly'). Full article content not accessible for verification. Specific claims about scope, timeline, and implementation details cannot be confirmed.",
-      "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb3ZDOS1wQVVMV1hiTHBLM0hqc0p0QzdGRmpESUZxRFpnakNqOWVwTlJGbnRJc2F0WnZoMFl6WXN0eG1feUJSUGQ4VUdPYXJRU3JzMmZ1ZWdnSWdhOXN0Q2l3ZEd4NWhBdDFJc3Fsd0h4NEVpdmVvTHVOUGh0NDdGMjM5bF9NcUdCdEJOY0EwNjBUeWhRZkx5bGVUdVhpQzVEUnc?oc=5",
-      "date": "Mon, 12 Oct 2026 20:59:50",
-      "featured": false
-    },
-    {
-      "id": "a02883c2f1ba8b66",
-      "category": "Gaming",
-      "tag": "GAMING & AI",
-      "readTime": 3,
-      "title": "Epic Games Goes AI-First for Disney Game Development - The Tech Buzz",
-      "dek": "Epic Games is adopting AI-first development methods for upcoming Disney game projects.",
-      "summary": [
-        "Epic Games has announced an AI-first approach to game development for Disney titles. This strategy integrates artificial intelligence tools into the core development process rather than treating them as supplementary features.",
-        "The partnership leverages Epic's Unreal Engine technology alongside AI capabilities to streamline game creation. This approach aims to accelerate development timelines and potentially reduce production costs for Disney entertainment properties."
-      ],
-      "why": "This development reflects broader industry trends toward AI integration in game creation. It signals how major publishers are adopting generative AI for asset creation, design optimization, and workflow efficiency. The Disney-Epic collaboration may influence AI adoption standards across the gaming industry.",
-      "evidence": "Evidence quality is limited. The source is a news aggregator link; the full article text was not accessible for verification. Specific details about which Disney games are involved, concrete AI tools being used, timeline, or quantified outcomes cannot be confirmed from the headline and metadata alone. Claims in the original article should be verified against official Epic Games or Disney announcements.",
-      "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNnVSbE9nTzBURVdlcjhJWmdVcGdYZmtPbXY0YWcyaU1IbVBIb0lLWTYxV0xlRWREVmpiTzd5NkRUaXBPaEZWajI2TVMzTUlPb3h6RmNyaUFwRFBtTVhxU1ZncXZORW9zcVh5Q2JpRmpLUF9DdHlNT096Vnl5dHJiLS12cmlmQkVwWVRoMGNR?oc=5",
-      "date": "Tue, 13 Oct 2026 16:08:00",
-      "featured": false
-    },
-    {
-      "id": "907328d8c145c070",
-      "category": "Politics & World",
-      "tag": "MIDTERM ELECTIONS",
-      "readTime": 3,
-      "title": "Ahead of the midterms, most voters cite the economy and cost of living as top issues and favor political change - AP-NORC",
-      "dek": "A new AP-NORC poll finds that voters heading into midterm elections prioritize economic concerns and desire political change.",
-      "summary": [
-        "According to an AP-NORC poll conducted ahead of the midterm elections, the economy and cost of living emerge as the top issues for most voters. This reflects widespread concern about inflation, wages, and household financial pressures affecting American families.",
-        "The survey also indicates that a significant portion of voters favor political change, suggesting potential openness to shifting representation in Congress. These findings align with historical patterns where economic conditions heavily influence midterm voting behavior."
-      ],
-      "why": "Economic messaging and voter sentiment data are critical indicators for predicting midterm election outcomes and understanding voter priorities. These results help shape campaign strategies and reveal what issues candidates must address to connect with voters.",
-      "evidence": "This briefing relies on the AP-NORC poll as reported. AP-NORC surveys are conducted by the Associated Press and NORC at the University of Chicago, a reputable non-partisan research organization. Specific poll percentages, sample size, and detailed methodology cannot be verified from the headline and feed description alone. The full article would contain these methodological details necessary for complete assessment.",
-      "source": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd01FbDVUVXZSTDFhUTl2bEJ2QlpsTjZjeTdJVHB4bF9PLVI3TERtcFpkM1gyMlYybW9iNUphMW1jQ3pWU25PRkF0b0JDUlFEUThWVlRQYTl5dm8zVnpoUGY2N2lvSER3RXlGRWxOVWY1Wmxsd29GZ1hRb2l0TjZVUDJ4OC1iWHpNRG1hcHZBcC12dmk3cWFsYjlOWTk3eElPWVVJUUYtWWp4LVczcE5oaEVBVm9zSzAtN2taLVRVM18yT2pmUGpNdVNZX0htYzFMQ0wtUzNB?oc=5",
-      "date": "Thu, 15 Oct 2026 11:59:35",
+      "why": "This demonstrates how creative work influences career choices in entertainment industries and provides insights into what motivates professionals to enter game development. It reflects on BioWare's legacy in the gaming sector.",
+      "evidence": {
+        "quality": "Limited",
+        "details": "Only headline, publication date, and source are available. The full article content has not been reviewed. Specific games, developers named, and their exact statements cannot be verified from this briefing metadata."
+      },
+      "source": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNGZPSG1qVXhGNHAzMnNiUFY3a29JMDJnTjFnclBqMnRIalpKdmRPUW5VWTNtYThwMXhaMFRlM3VOT05TMmY5RUsyUE1USjRpSnVBcDRyaE84T1pDWTFCSW52MWtPekRyZlhGOTBiSXV2d2M4RFZDamF6bUtSQjctYVdnd1dnbXNYc0V6ZzBMOUYwV1ZUUnY5ZE9CMTdzZTFsNEFKSmp2WjZiNUV3NHFyUkZXcnI5Sk5NVDBLXzhlclhwTzQwLUZzZl9ib09UXzJ6S0hYR0p5RW1fVk1pWVlsb3BBXzVoY2I3S2VrVHFR?oc=5",
+      "date": "Fri, 23 Oct 2026 17:56:29",
       "featured": true
     },
     {
-      "id": "727d6de16d7f61a2",
-      "category": "Politics & World",
-      "tag": "2026 MIDTERMS",
+      "id": "eb652f2f85efe524",
+      "category": "Gaming",
+      "tag": "GAMING INDUSTRY",
       "readTime": 3,
-      "title": "Preparing for the 2026 US midterms - Anthropic",
-      "dek": "Anthropic, an AI company, is reportedly involved in preparations related to the 2026 US midterm elections.",
+      "title": "Philadelphia Wants to Platinum the Gaming Industry. Can It? - The Philadelphia Citizen",
+      "dek": "Philadelphia is exploring strategies to expand and strengthen its gaming industry presence and economic impact.",
       "summary": [
-        "According to this news item, Anthropic—an artificial intelligence research company—is preparing for or involved in some capacity with the 2026 US midterm elections. The specific nature of Anthropic's involvement cannot be determined from the headline and metadata alone.",
-        "The 2026 midterm elections will determine control of the US House of Representatives, one-third of the Senate, and numerous state offices. Election preparation typically involves multiple stakeholders including election officials, political organizations, and technology companies.",
-        "This item is categorized under Politics & World. Without access to the full article content, the details of Anthropic's specific role, activities, or statements cannot be verified."
+        "According to the Philadelphia Citizen, the city is considering initiatives aimed at growing its gaming sector, potentially positioning Philadelphia as a major hub in the industry.",
+        "The article examines whether Philadelphia has the infrastructure, regulatory framework, and economic conditions necessary to successfully expand gaming operations and attract related businesses.",
+        "The piece raises questions about feasibility, competition from other cities, and what concrete steps would be needed to realize this ambition."
       ],
-      "why": "Understanding how technology companies engage with election processes is relevant to public awareness of infrastructure, potential AI applications in campaigns or election security, and stakeholder involvement in democratic systems.",
-      "evidence": "Evidence quality is severely limited. Only the headline, publication date, source attribution to Anthropic, and category metadata are available. The full article content has not been reviewed. No specific claims, data, or quotations can be verified from this briefing information alone.",
-      "source": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40a2x1bXc2VHhZaFl0SlRhdGhoWjNqNHlKZ3dGcWpzSHNWUFVHbUhwSkY3ZXVrU3dXVWJGSEh5cUlvMjUzMm5YQ2E3VHF2cUFBZ3NneDJGTnQyVUk?oc=5",
-      "date": "Wed, 14 Oct 2026 18:33:00",
+      "why": "Gaming industry expansion could generate tax revenue, create jobs, and boost Philadelphia's economic development—but success depends on policy decisions, regulatory approval, and competition from established gaming centers.",
+      "evidence": "This briefing is based on a headline and publication metadata only. The full article content was not accessible for review. Claims about specific plans, statistics, or expert opinions cannot be verified without reading the complete text. Readers should consult the original article for detailed evidence and supporting sources.",
+      "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QN1RtdmF0YnZ6b2ozLV9UTUxzSWZsZnVPXy1rLVdQYjRjdVBSWVB2aE9XbnJtV2NDZF9DSjNWNGdlUE1wb3lmaDBqSVphT1FBYUtzaUpOQ0Q3eWVDemJjR0RfT015WkI0?oc=5",
+      "date": "Thu, 22 Oct 2026 09:57:29",
       "featured": false
     },
     {
-      "id": "fcbe2b3fa07921bb",
-      "category": "Politics & World",
-      "tag": "ENERGY POLICY",
+      "id": "fef9904da53ce612",
+      "category": "Gaming",
+      "tag": "GAMING INDUSTRY",
       "readTime": 3,
-      "title": "Powering America - Fifty Years of Energy Policy, Politics, and Progress - Dentons",
-      "dek": "Dentons examines five decades of U.S. energy policy development, exploring how political decisions and market forces have shaped the nation's power infrastructure.",
+      "title": "From Supercell to Indie Developers: How Finland's Gaming Industry Is Structured and How It's Evolving Today - WN Hub",
+      "dek": "Finland's gaming industry spans from major studios like Supercell to independent developers, with the sector undergoing structural changes and evolution.",
       "summary": [
-        "This briefing from law and policy firm Dentons reviews the evolution of American energy policy over the past 50 years, covering major shifts in political priorities, regulatory frameworks, and technological adoption that have influenced the country's approach to power generation and distribution.",
-        "The analysis traces how energy policy has been shaped by competing priorities including economic growth, national security concerns, environmental considerations, and technological innovation, with different administrations and Congresses emphasizing different objectives.",
-        "The review likely addresses major policy milestones such as the 1973 oil embargo response, deregulation efforts, renewable energy incentives, and recent climate-related legislation, though specific findings cannot be verified from the headline and feed information alone."
+        "Finland has established itself as a significant player in global gaming, with Supercell being one of the most prominent examples of a successful major studio. The industry includes a diverse ecosystem ranging from large established companies to smaller independent developers creating games across various platforms.",
+        "The Finnish gaming sector is currently experiencing shifts in how it operates and evolves. These changes affect everything from business structures to development practices, reflecting broader trends in the global gaming industry.",
+        "Understanding Finland's gaming landscape requires examining both the established players that have achieved international success and the emerging indie developers who are shaping new creative directions within the country's tech ecosystem."
       ],
-      "why": "Understanding energy policy history provides context for current debates over grid modernization, energy independence, climate response, and infrastructure investment that continue to shape national policy and economic priorities.",
-      "evidence": "Evidence quality cannot be fully assessed from available information. The source is a major international law firm with policy expertise, suggesting professional analysis, but the full article content is not accessible for verification of specific claims, data sources, or analytical conclusions.",
-      "source": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdDM0OXlKYVBZUVhUSGpxUE85RUJ4bjRpbmUzSGxRN2IzODNfN2loZ0hWbHdtcjRFRlg4LTVUSG1uQTg1VG1fYVRNRkppLUZiOC0xU3p6ak13U3h2YXVrdk11NWNvdklxalMzWXR0ektHRk1NcGxoNGMxbzMwQVFrTkxOS1gxTGEzRHBJaGFSMW9RZUEyRWF4SWtEeGE2N1UyU2Jxb3c4VlFrUDdaeFBfV1l3UHVMdk5hUjI5TmtBdWtFSG90QnFYSVllNXFpa3FoNzNNeFVXb2x1SkY5ZHo1RnFycG1oMjZzV3c?oc=5",
-      "date": "Wed, 14 Oct 2026 07:00:00",
+      "why": "Finland is a major gaming hub with outsized influence in the global industry; understanding its structure and evolution provides insight into how national gaming sectors operate and adapt to changing market conditions.",
+      "evidence": "Limited. The source headline and publication information are available, but the full article content was not accessible for review. Specific statistics, developer names, structural details, and evolution specifics cannot be verified from this briefing.",
+      "source": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TcGZuXzRFR29tQmV2NzdaN19zSFNsYzZxanFaY2VZWkVSNG1WMG12akJ5cERuR3Fad0NsQ1NyRElSZzdwMnVKTW1zVDVLaU0?oc=5",
+      "date": "Wed, 21 Oct 2026 14:52:20",
       "featured": false
     },
     {
-      "id": "dc3dcee2e37b6a6a",
+      "id": "15b91a9e7d4f63af",
       "category": "Politics & World",
-      "tag": "MIDTERM ELECTIONS / EXPERT RESOURCES",
+      "tag": "MIDTERM ELECTIONS 2026",
       "readTime": 3,
-      "title": "KU experts available for the midterms - KU News",
-      "dek": "The University of Kansas is making faculty experts available to media and the public for commentary and analysis ahead of the midterm elections.",
+      "title": "The midterm effect: What the 2026 election could mean for public policy - Brookings",
+      "dek": "A Brookings analysis examines how the 2026 midterm elections could reshape policy priorities across federal government.",
       "summary": [
-        "KU News announced that university experts are available to provide informed commentary on midterm election topics. This appears to be part of a broader effort by the institution to contribute subject-matter expertise to public discourse during an important electoral period.",
-        "The initiative likely includes faculty from various disciplines who can address election-related questions, from political science and policy analysis to media literacy and civic engagement. Universities often make expert resources available during major political events to enhance public understanding.",
-        "Details about specific experts, their areas of focus, and how media or citizens can access them are not available from the headline and source description alone."
+        "The Brookings Institution has published analysis on the potential policy implications of the 2026 midterm elections. The piece examines how shifts in congressional composition could affect legislative agendas and federal priorities.",
+        "Midterm elections historically influence the direction of policy in the second half of a presidential term, affecting which issues receive funding and legislative attention. The 2026 elections will determine which party controls Congress for the remainder of the current administration's term.",
+        "The analysis appears positioned to help policymakers and the public understand how electoral outcomes could translate into changes in healthcare, economic, environmental, and other policy areas."
       ],
-      "why": "Expert commentary from academic institutions can help the public understand complex political issues, policies, and election dynamics from evidence-based perspectives. This supports informed voting and civic participation.",
-      "evidence": "Limited. The source is a headline and feed description only. Full article content has not been reviewed. The actual scope, specifics of which experts are available, and their designated topics cannot be verified from this briefing material.",
-      "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeXY0Uk5ZdUc4VnQxOEMxVDk0OTdKYWp4VzR5X0dQRHRzVUN0U09DMERXQ1VpNE5NRWg3VXRSUWV1aGhHRXBUNVR5dU9qOVhFSTJFTUk2cUdsaFdPclBJQVZ5dFNZY2xSMEZROENIWlM0S0dCZWtLVmNISVhpRDA5c3BwYlpZZU9Rc2ZZQXZxMGxKVlJjUUw4aWhRZi10VUtCamh4X19tVms?oc=5",
-      "date": "Mon, 19 Oct 2026 13:19:37",
+      "why": "Midterm elections significantly impact policy implementation and legislative priorities. Understanding potential outcomes helps stakeholders anticipate how federal priorities, funding, and regulations may shift depending on electoral results.",
+      "evidence": "This briefing is based on a headline and feed description only. The full Brookings analysis has not been accessed. Specific findings, data, or policy predictions cannot be verified from available information. Readers should consult the original article for detailed evidence and analysis.",
+      "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbGxuc1JOXzBTaW84TG1MaU9GQ3FJTUtjU1c1WThHWFlERlZHWGJ1MzJtOFlLaWRaWk5DVTZQZjk2bEQ1bUxLUVJzZmVkYWNodldsQUVCdmoyc3kwRkpTNHB0RTVoT3NjVmI5azZ2cG1hWU45TTVaVlFHNjhLVkc2QVZseGVtaEk1TlZvYjhILTVpTHo3TDRFUERCOWNDcjhPNUNFaU1xc3Z6Zw?oc=5",
+      "date": "Thu, 22 Oct 2026 19:50:04",
+      "featured": true
+    },
+    {
+      "id": "12dcc77d22a66591",
+      "category": "Politics & World",
+      "tag": "REDISTRICTING",
+      "readTime": 3,
+      "title": "The Mix of Political Views in California’s New Congressional Districts - Public Policy Institute of California",
+      "dek": "A California research institute examines the political composition of the state's newly drawn congressional districts.",
+      "summary": [
+        "The Public Policy Institute of California has released an analysis of political views and voter distribution across California's redrawn congressional districts. The study appears to focus on how redistricting has affected the political makeup of districts that will represent voters in upcoming elections.",
+        "The analysis examines the mix of political perspectives within each district, providing data on voter composition and political leanings. This type of research helps illustrate how district boundaries influence representation and electoral outcomes."
+      ],
+      "why": "Understanding the political composition of congressional districts is important for voters, policymakers, and election analysts. Redistricting directly affects representation, campaign strategy, and which candidates are likely to be competitive in each district. This research provides data-driven insights into how California's redistricting process has shaped the political landscape.",
+      "evidence": "This briefing is based on the headline and metadata only. The full article content was not accessed, so specific findings, statistics, and methodology cannot be verified. The Public Policy Institute of California is a recognized nonpartisan research organization, which generally supports the credibility of their analysis, but specific claims require review of the full report.",
+      "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeV9OQW83Wm90ZHFsOHFzSmhtUmJSdUJSc2NhTlFlX2lIYnhrT2ZlMGZjRG5oMVVKVlN0X0h0MWtUaFliWDZ2LWdxZ2stc3lHOGpKN05fRzY1R0VEOWJac2U3T1VadzE4RngyYXFjSU9kZkgtazdGWWpRTnFaM3pKV19iSXZjOU5MSFBFZVZsTHB4LTF2MmhQQVlJUEs?oc=5",
+      "date": "Wed, 21 Oct 2026 16:45:24",
       "featured": false
     },
     {
-      "id": "f682b1899a1eda7e",
+      "id": "9d8def16f174458a",
       "category": "Politics & World",
-      "tag": "POLLING & VOTER SENTIMENT",
+      "tag": "AGRICULTURAL POLICY",
       "readTime": 3,
-      "title": "Frustrated with Trump, voters overwhelmingly want change, AP-NORC poll finds - PBS",
-      "dek": "An AP-NORC poll shows most voters express frustration with Trump and desire significant political change.",
+      "title": "Mixing Politics and Perceptions of AI and Data Centers: Results from the Gardner Food & Agricultural Policy Survey - farmdoc daily",
+      "dek": "A University of Illinois survey examines how political views shape farmers' perceptions of artificial intelligence and data center development.",
       "summary": [
-        "According to a poll conducted by The Associated Press and NORC Center for Public Affairs Research, a substantial majority of voters report feeling frustrated with Trump and indicate they want change in American politics. The specific margin and demographic breakdowns are not detailed in this headline.",
-        "The poll findings reflect voter sentiment at a particular moment in October 2026. Details about the survey's methodology, sample size, margin of error, and exact questions asked cannot be verified from the headline alone.",
-        "This type of polling data typically measures voter mood and preferences but represents opinions at a single point in time. The full report would contain important context about how responses varied across different voter groups and regions."
+        "Researchers at the University of Illinois conducted the Gardner Food & Agricultural Policy Survey to explore connections between political affiliation and attitudes toward AI technology and data center expansion in agricultural communities.",
+        "The survey appears to investigate whether political ideology influences how farmers perceive the risks and benefits of emerging technologies that could affect rural land use and farming practices.",
+        "Results suggest political identity may play a significant role in shaping stakeholder perspectives on technological infrastructure in agricultural regions, though specific findings cannot be verified from the headline and source link alone."
       ],
-      "why": "Voter sentiment polling provides insight into public opinion trends and potential electoral considerations. Understanding reported levels of frustration and desire for change helps contextualize the political landscape during the 2026 period.",
-      "evidence": "This briefing is based on a headline and source attribution only. The full article text was not reviewed. Specific statistics, question wording, respondent demographics, and methodology details cannot be verified. AP-NORC polls are generally recognized as reputable surveys, but the exact findings remain unconfirmed from this source alone.",
-      "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOVR2YklQT2VqaFFEclNOcEtta2hGWVpmVTMwR2Z0OE1xajBBTV93dUx5T1JGWVFyOVJEQllKNTlfWTVWWHljM25URV8yVXZKWWhhdDAyTUNValBpcUotaXlOTnRLU2RsQUl0dEtVWS1jamE2UUFRbUFMWTRfUkZvS3lqbl9yT0hnTGtNRS1JRXpDR1pwWUpEMGJwYnVLLWhRTGNvUENqeF90bDFNcmdDUjFB?oc=5",
-      "date": "Thu, 15 Oct 2026 22:27:33",
+      "why": "Understanding how political perspectives shape agricultural communities' acceptance of AI and data centers is important for policymakers designing rural technology policy and infrastructure development strategies.",
+      "evidence": "Evidence quality cannot be assessed without access to the full survey methodology, sample size, margin of error, and detailed findings. The source appears to be from a university-affiliated agricultural economics publication (farmdoc daily), which typically applies academic standards, but specific data limitations are unknown.",
+      "source": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMUVJOVVORHBfcGZrZkRFTFJzbWxfQVVCREF1SUxNdnM2YktBM2Y3dVUtaHdHTTd2R2hHNWZULXB1VnBtMGx0V2tMVHdYd3JhbEk5aW1TM19VNExKbU9jVFFyOGlla2Z1T05TWjRKbzY0S1NFV3dqNER2LVRpQ2F6Mml4X0xUQkVkeGhzMDBqQU45UEg5RE12Q0NYYmczVjVETnM3Z29lRDhrZHZmQlVRd1pyajd3UDZ0cHgzWW5GTUNDMk5JLVZvd2FEM09ocXVyNzR2dEsyaTZROERGTFlaVWxieG01QzVLWk5LUTQ2MA?oc=5",
+      "date": "Wed, 21 Oct 2026 16:09:59",
+      "featured": false
+    },
+    {
+      "id": "015aad27d41aa445",
+      "category": "Politics & World",
+      "tag": "ACADEMIC RESEARCH",
+      "readTime": 3,
+      "title": "News - Foy-Sutherland Publishes Research in Two Academic Journals - Hamilton College",
+      "dek": "Hamilton College researcher Foy-Sutherland has published findings in two peer-reviewed academic journals.",
+      "summary": [
+        "A researcher named Foy-Sutherland from Hamilton College has published research across two academic journals. The specific focus, findings, and methodologies of these publications cannot be detailed without access to the full articles.",
+        "Academic publication in peer-reviewed journals typically indicates research has undergone editorial review and meets standards for scholarly work. The dual publication suggests productive research output from this Hamilton College scholar.",
+        "Further details about the research topics, institutions involved, and specific contributions would require review of the actual journal articles and Hamilton College's full announcement."
+      ],
+      "why": "Faculty research publications demonstrate institutional research activity and contribute to academic discourse in their respective fields. This represents professional advancement and scholarly productivity at the college level.",
+      "evidence": "Evidence quality cannot be assessed without access to the full articles, journal names, or detailed findings. The source is an institutional news announcement, which provides limited detail. Verification would require reviewing the actual publications and their peer-review processes.",
+      "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaVlTZ0xfc0FkaExIbEx4X1hydXpDV21iWEVFazJ5S2VwTUJOV0VxbmFLR20xanJINjFVUTVkMXhTMkxGdzR0My0wd1VwTzl0c3BZTWMtdWczTm5LazEwQlZ4YjN1R2RhaThaTk9PZjVJTXFaRXhjWGVxRlZOMEFqbUxqUW9UVkVUcnlUcTVnbFd6SGlhbEgzOFFR?oc=5",
+      "date": "Mon, 26 Oct 2026 04:04:31",
+      "featured": false
+    },
+    {
+      "id": "ea23e76dfa40aef1",
+      "category": "Politics & World",
+      "tag": "POLITICS & ECONOMY",
+      "readTime": 3,
+      "title": "Paul Ryan discusses America’s economic and political future at Rice’s Baker Institute - Rice University",
+      "dek": "Former House Speaker Paul Ryan addressed economic and political issues affecting the United States at Rice University's Baker Institute.",
+      "summary": [
+        "Paul Ryan, former Speaker of the House, delivered remarks at Rice University's Baker Institute on October 22, 2026, focusing on America's economic outlook and political landscape. The Baker Institute is a nonpartisan public policy research center.",
+        "While the specific details of Ryan's remarks cannot be verified from the headline alone, such events typically feature discussion of fiscal policy, governance, and economic strategy from a prominent political figure's perspective."
+      ],
+      "why": "Ryan's views on economic and political matters remain influential in national policy discussions. Public appearances at research institutions provide platforms for detailed policy analysis and dialogue about national priorities.",
+      "evidence": {
+        "quality": "Limited",
+        "description": "Only the event headline, date, and venue are confirmed. The full content and specific claims made during the address cannot be verified from this briefing."
+      },
+      "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTzMxTnhuYVVPb25QQnA0UUpWRklhbml1OVAtaXUwRWtFWWVIdjJjczcxeVFYNTdKWnp0Q2NOUmg3YU9Mb2pvbGpnS2FyQnpJN2FRRnlYUmhQeUNyVDhGSUJqVmFQSDZ1X2w2VFY4eS1KZWtJek9oNFRuXzJTTUhtRXRrTnJhMU9UQ3FRM001ZnNfUVQ3aTlrVURrRmZsUEJCNVV1bWFGSll2SldIMEppZ01R?oc=5",
+      "date": "Thu, 22 Oct 2026 19:20:55",
       "featured": false
     }
   ]
